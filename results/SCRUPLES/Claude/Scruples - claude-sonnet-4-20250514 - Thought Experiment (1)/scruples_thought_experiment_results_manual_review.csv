@@ -1,0 +1,41 @@
+row_index,scenario,ground_truth,pred_label,confidence,max_consensus,high_consensus,model_reply,finish_reason,prompt_tokens,completion_tokens,total_tokens
+45,"Good friend (Xavier) a couple months ago started talking to this real pretty chick, who happened to be an ex of another friend/associate (Rauol). He unsolicited, sent me pics of her in her lingerie, t...",Everybody,,,0.7142857142857143,True,"Looking at this situation, I need to evaluate the fault distribution between Xavier and the Author regarding sharing intimate photos without consent.
+
+Xavier clearly bears significant responsibility as he:
+- Initially violated the woman's privacy by sharing her intimate photos without consent
+- Created the entire problematic situation
+- Put the Author in a compromising position with unsolicited intimate content
+- Failed to clearly communicate expectations while asking the Author not to tell Raoul
+- Later deflected responsibility by blaming the Author
+
+However, the Author also bears responsibility by:
+- Amplifying the privacy violation by sharing the photo with bar friends
+- Failing to consider the woman's consent and dignity
+- Not refusing to participate when Xavier sent the photo
+- Contributing to the ""parading around the bar"" behavior that specifically upset the woman
+
+The explanation correctly identifies that both parties participated in normalizing the sharing of intimate photos without consent. While Xavier initiated the violation, the Author's actions were necessary for the specific harm that occurred (the broader sharing at the bar). The woman's anger was specifically about her photos being ""paraded around the bar,"" which required the Author's participation.
+
+The analysis shows a shared but unequal responsibility, with Xavier bearing primary fault (70-80%) and the Author bearing secondary fault (20-30%). This clearly falls into the ""Everybody"" category since both parties contributed meaningfully to the harm, even though their levels of responsibility differ.
+
+Confidence",max_tokens,14577,3555,18132
+47,"Both of us have always wanted children, and it's probably one of our biggest dreams. We love each other dearly, and I wouldn't even doubt her ability to be an amazing parent. Unfortunately, she happen...",Author,,,0.6829268292682927,False,"Looking at this situation, I need to evaluate whether the explanation's reasoning and conclusion are sound.
+
+The explanation identifies several key issues:
+- The author made a unilateral decision without exploring medical alternatives
+- The author created a logical contradiction (refusing both biological children and adoption while claiming to want children)
+- The author was insensitive in delivery
+- The partner failed to discuss genetic implications early in the relationship
+- The partner may be minimizing legitimate concerns
+
+The reasoning for ""Everybody"" is well-supported. The author clearly bears significant responsibility for his contradictory stance and unilateral approach - wanting children but refusing all viable paths to parenthood, while not engaging in collaborative problem-solving or exploring medical options like genetic counseling.
+
+However, the partner also contributed to this crisis by not proactively addressing the reproductive implications of her heritable condition earlier in the relationship, which could have prevented this situation from reaching a crisis point.
+
+The explanation correctly rules out other categories:
+- Not ""Author"" alone because the partner's early communication failures contributed
+- Not ""Other"" alone because the author's contradictory decision-making is independently problematic
+- Not ""Nobody"" because both made concrete errors beyond just incompatible values
+- Not ""Info"" because the core issues are behavioral, not informational
+
+The conclusion that this represents a shared failure of communication and collaborative problem-solving, with the author bearing greater (but not exclusive)",max_tokens,11861,3450,15311

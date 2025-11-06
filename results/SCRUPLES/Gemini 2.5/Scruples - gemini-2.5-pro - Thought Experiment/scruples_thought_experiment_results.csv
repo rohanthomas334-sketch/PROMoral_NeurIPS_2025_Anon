@@ -1,0 +1,278 @@
+row_index,scenario,ground_truth,pred_label,confidence,max_consensus,high_consensus,model_reply,finish_reason,prompt_tokens,completion_tokens,total_tokens
+0,"   Throwaway for obvious reasons.
+
+   I dropped out of uni 2 years ago because I was planning on moving to a different country and going to Uni there. However, my parents didn't want to help me in any...",Author,Everybody,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,13667.0,3296.0,18016.0
+1,Background: I can't give much detail because our unique situation may give me away to friends who are on here. We've been in a relationship for a few years. It progressed very quickly within months of...,Everybody,Everybody,1.0,0.631578947368421,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,12439.0,3505.0,16756.0
+2,"I've been a long time lurker of reddit and this sub but I finally signed up because I truly need help here.  
+
+
+To tell this story right we need to rewind nearly 4 years ago. Where I was Tinder-ing it...",Author,Everybody,1.0,0.7272727272727273,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,12730.0,3238.0,17044.0
+3,"I don't want kids. This was never an ""oh your just young that's why your saying that "" I am 23 and I just never seen myself as a mother ,the pressure of being this perfection just turns me down so fas...",Other,Nobody,1.0,0.5714285714285714,False,"Confidence: 1.0
+Final Answer: Nobody",STOP,11238.0,3318.0,15562.0
+4,My teacher is pretty creepy and always stares at me and I think he probably wants to fuck me. He gave me a pretty low grade on my coursework and tbh I guess I deserved it because I spent barely any ti...,Author,Everybody,1.0,0.8571428571428571,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,10817.0,3448.0,15160.0
+5,"So obviously this was today last year, and obviously we were together at the time but aren't today.
+
+So about a week or so before Valentine's Day, she and I agree that neither of us will give the othe...",Author,Author,0.9,0.5714285714285714,False,"Confidence: 0.9
+Final Answer: Author",STOP,11170.0,3261.0,15516.0
+6,"When I saw her naked I just wasn't attracted to her body, and while I liked her personality there was just 0 attraction whatsoever. I told her like an hour after ""sorry but I'm really not feeling this...",Author,Nobody,1.0,0.75,True,"Confidence: 1.0
+Final Answer: Nobody",STOP,9645.0,3356.0,13955.0
+7,"Edit: New post with the correct amount of characters. 
+
+I'm an aspiring writer, I've finished several short stories, one of which is being adapted for audio drama, and one novel manuscript which I've ...",Nobody,Everybody,1.0,0.391304347826087,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,12995.0,3356.0,17333.0
+8,So I went to a bar close to my house that I occasionally visit to have a few drinks after work. The night was going well. I ended up talking with a cute girl for awhile and she gave me her number. Thi...,Author,Everybody,1.0,0.5,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,11295.0,3499.0,15608.0
+9,"About a year ago I and my wife (white) bought a house and moved into one of LA's most rapidly gentrifying, majority Hispanic neighborhoods.
+
+We've tried to be really respectful of some of the cultural...",Author,Info,1.0,0.6875,False,"Confidence: 1.0
+Final Answer: Info",STOP,11023.0,3388.0,15349.0
+10,When we first got divorced our son was 4. He was perfectly healthy and she got primary custody. I asked for a received every other weekend. The court ordered me to pay a set amount of child support a ...,Author,Everybody,1.0,0.9585253456221198,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,12433.0,3349.0,16747.0
+11," 
+
+## AITA for arguing with my girlfriend, about her and her sisters trip?
+
+📷
+
+First time poster and on mobile so go easy on me for format and spelling errors. So for some back story my girlfriend and...",Other,Other,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Other",STOP,12298.0,3058.0,16650.0
+12,"Long post, most of it is background information... TL;DR at the end. 
+
+ I have this coworker/close friend, that I have been helping out for a while. His truck broke down once, and I was his ride to pr...",Author,Everybody,1.0,0.6756756756756757,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,13393.0,3350.0,17713.0
+13,"I'll keep this briefly. There are basically three people involved in this... let's call them X, Y and me. So X was trying to splash me with pen ink so as a revenge I took his eraser and threw it in th...",Everybody,Everybody,1.0,0.5555555555555556,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,10797.0,3269.0,15113.0
+14,My friend Olivia paid for me and my friend Judy’s trip. I paid Olivia back ASAP and then Olivia asked me if I could pay for Judy’s trip cause she knows I have a decent savings account. I’m kind of pis...,Other,Other,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Other",STOP,9788.0,3450.0,14144.0
+15,"Long time lurker, first time poster. 
+My boyfriend and I have been dating for almost two years and at some point in our relationship I managed to mislead him into thinking that my middle name is Aimee...",Author,Everybody,1.0,0.6071428571428571,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,10658.0,3294.0,14978.0
+16,"My coworker requests time off or asks the others to cover her shifts more often than she actually works. She hasn't covered my shifts even after I've covered several of hers, and I feel like I'm being...",Other,Other,1.0,0.7142857142857143,True,"Confidence: 1.0
+Final Answer: Other",STOP,10752.0,3477.0,15064.0
+17,"Hello guys, new account because I never had a reason to make an account or post anything until now.
+
+So Kylie is my best friend. She's 24, I'm 23. She's been with Avery for 2 years now. They moved SUP...",Author,Info,1.0,0.6538461538461539,False,"Confidence: 1.0
+Final Answer: Info",STOP,14049.0,3446.0,18364.0
+18,"I found out this girl in my year has a YouTube channel. I don’t like her, she’s called me a slut and said I think I’m better than everyone, she also tried to get me suspended for calling her the wrong...",Author,Info,1.0,0.9285714285714286,True,"Confidence: 1.0
+Final Answer: Info",STOP,9775.0,3332.0,14102.0
+19,"So, its early morning and I'm going to my parents to see my mom for half an hour, drop her card off and present and say hello. My little one who is 6 asked if she could come too, I said yes no problem...",Other,Everybody,1.0,0.7962962962962963,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,10642.0,3445.0,14990.0
+20,"Background info: I have a condition known as ""Skin Hunger"" where the lack of affectionate, loving skin to skin contact begins to severely fuck with my mental and emotional state, making it next to imp...",Author,Everybody,1.0,0.47619047619047616,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,10788.0,3431.0,15094.0
+21,Title pretty much sums it up.  An employee was leaving for work related training and mentioned their laptop died &amp; they would need to see if they could borrow their SO’s moms laptop.  My husband j...,Other,Everybody,1.0,0.75,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,10245.0,3418.0,14583.0
+22,"Obligatory on mobile notice. Throwaway account for reasons.
+I had a really close friend (Let's call them Joseph) who really got me. When we met, we clicked instantly. We had been through a lot of simi...",Author,Everybody,1.0,0.7,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,13522.0,3182.0,17833.0
+23,"I work as an occupational therapist’s assistant for reference, but last Thursday night as I was going to bed, I started having some pain in my lower side. I had been down this road before and recogniz...",Other,Info,1.0,0.4,False,"Confidence: 1.0
+Final Answer: Info",STOP,10549.0,3356.0,14869.0
+24,"This is my first time posting in this sub so bear with me here. 
+About I year ago I moved into an apartment with my friend and his girlfriend. She didn't have a job when we first moved in because she ...",Other,Everybody,1.0,0.8333333333333334,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,11596.0,3157.0,15932.0
+25,"Earlier today, me and my girlfriend's dad went out to shovel some people's driveways. He had mentioned that it's something he does this time of year to make some extra cash and I volunteered to help h...",Everybody,Info,1.0,0.5740740740740741,False,"This is an unusual request. You have provided a detailed analysis and conclusion for a situation, but you have not provided the *situation itself* for me to evaluate.
+
+The text you gave is the *answer* to a problem, not the problem itself. I need the original story or scenario to make an evaluation.
+
+Therefore, I cannot proceed without the necessary information.
+
+Confidence: 1.0
+Final Answer: Info",STOP,12275.0,3436.0,16663.0
+26,"My grandfather died last Friday. My mom told me to not post anything on social media. I interpreted this as to not post anything about my grandfather, not posting stuff in general. 
+
+I haven't changed...",Other,Nobody,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Nobody",STOP,10272.0,3302.0,14581.0
+27,Background: Im a college freshman in NYC and my gf is a senior in highschool back home. She had a really shitty day today and wanted to talk on the phone. I said later tonight we could call because I ...,Other,Nobody,1.0,0.5,False,"Confidence: 1.0
+Final Answer: Nobody",STOP,9867.0,3473.0,14201.0
+28,"Me and my friends are currently filming a project for Youtube. It's just fun, nothing serious. We were going to film a scene today where we would meet with a group of people. One of these people is th...",Author,Everybody,1.0,0.9411764705882353,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,11978.0,3352.0,16307.0
+29,"I'm a 15 year old teenager, and my dad wants me to go with him to see some new dark comedy movie, but I would rather go see it with my friends, I feel I'm getting too old to watch movies with my 40 ye...",Author,Info,1.0,0.6666666666666666,False,"Confidence: 1.0
+Final Answer: Info",STOP,9847.0,3537.0,14159.0
+30,"TLDR down below!
+
+&amp;#x200B;
+
+So me (20 m) and my best friend (19 f) have been friends for about 7 years now. I always noticed that she had some kind of crush on me or was at least very very interes...",Everybody,Everybody,1.0,0.42857142857142855,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,13684.0,2920.0,18005.0
+31,"So my girlfriend was apolosing today for re organising my room without asking me meaning I now had no idea where anything was anymore.
+However this was reorganisation was about a month ago and she kep...",Everybody,Everybody,1.0,0.5,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,10470.0,3314.0,14793.0
+32,"I have this friend and I feel like she tries too hard to be ""LGBT"". My friend and I are both bi. Ever since I met her she's had long hair down to her hips. She's recently got into Kpop and she's cut h...",Author,Everybody,1.0,0.38028169014084506,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,11769.0,3464.0,16110.0
+33,TL;DR I don't think I should demand my husband should stop what he's enjoying to fulfil a previously offered favour to me. He thinks I should have made the demand instead of making alternative arrange...,Other,Everybody,1.0,0.75,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,11574.0,3211.0,15933.0
+34,"About three weeks ago, girlfriend was driving while I was a passenger. We were at a four way stop and if I'm being totally honest, I think she went when it wasn't her turn but it was really close and ...",Author,Everybody,1.0,0.7619047619047619,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,12916.0,3370.0,17224.0
+35,"I'll give you some context.
+
+4 years ago I met my best friend, i'll call her Molly. She and I were only two until we met another 4 girls, two of them have another group and they are very nice to me.
+
+...",Nobody,Everybody,1.0,0.6,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,11779.0,3050.0,16101.0
+36,"So I’ve tried to tell him subtly with hints over a few months. But he doesn’t “believe” in soap or washing
+
+It’s so bad you can’t sit in the car with him at all 
+
+Even his hair is that filthy there’s ...",Author,Everybody,1.0,0.42857142857142855,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,10085.0,3435.0,14383.0
+37,So yeah title and a little bit more details. My mom has always been terrible with money and as a teenager I would lend her quite significant sums of money to help her hide it from my dad as I thought ...,Other,Info,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Info",STOP,11398.0,3449.0,15727.0
+38,"I've been dating my boyfriend for almost a year now. My family and friends have all met him and they all at leat dislike him. At first I thought they'll get used to me dating him, but after a year, it...",Author,Everybody,1.0,0.42857142857142855,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,12214.0,3243.0,16517.0
+39,"So a short backstory on me, I am a model. And with that most of my previous relationships stem from the guys I am dating on really dating me because of my looks and the ""status symbol"" of dating a mod...",Author,Info,1.0,0.7222222222222222,True,"Confidence: 1.0
+Final Answer: Info",STOP,12232.0,3156.0,16557.0
+40,My boyfriend of 3 years has gone on a beach vacation with his high school/college friends every summer for a few years. One of the families rents a 20 person house on the beach and they stay for a wee...,Author,Nobody,1.0,0.6818181818181818,False,"Confidence: 1.0
+Final Answer: Nobody",STOP,10425.0,3420.0,14755.0
+41,I’m in high school and as some of you may know school food is pretty bad. The only thing my friends and I like are the salads but they sometimes sell out pretty quick. Due to this my friends and I usu...,Author,Everybody,1.0,0.5555555555555556,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,11118.0,3444.0,15438.0
+42,Context: I recently started hanging out with a group of guys that were already all friends. They've been friends since they were little kids. When we hang out or talk in group chats all they do is rip...,Author,Everybody,1.0,0.625,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,13231.0,3047.0,17557.0
+43,"I started a new part time job a few months ago while I job hunt. It's a part time gig, I don't expect to stay here. 
+
+One of my co-workers is a self proclaimed autistic person. (she tells this to ever...",Other,Nobody,1.0,0.8571428571428571,True,"Confidence: 1.0
+Final Answer: Nobody",STOP,10412.0,3542.0,14738.0
+44,"So for some background info, I (17m) have been dating my girlfriend (18f) for a little over 5 months. We both go to the same high school. The boy in question (18m) used to be her boyfriend but they br...",Author,Everybody,1.0,0.5625,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,12983.0,3443.0,17318.0
+45,"Good friend (Xavier) a couple months ago started talking to this real pretty chick, who happened to be an ex of another friend/associate (Rauol). He unsolicited, sent me pics of her in her lingerie, t...",Everybody,Everybody,1.0,0.7142857142857143,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,13682.0,3322.0,17998.0
+46,So my wife developed some serious feelings for this guy years ago. I found out she is talking to him again after she said she wouldn't.   I got fed up with seeing his number showing up in my bill stat...,Everybody,Everybody,1.0,0.6666666666666666,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,9955.0,3573.0,14263.0
+47,"Both of us have always wanted children, and it's probably one of our biggest dreams. We love each other dearly, and I wouldn't even doubt her ability to be an amazing parent. Unfortunately, she happen...",Author,Nobody,1.0,0.6829268292682927,False,"Confidence: 1.0
+Final Answer: Nobody",STOP,11328.0,3391.0,15658.0
+48,"Hi guys, me and my girlfriend have been going out for little over 4 months. I really feel a connection with her and would go so far as to say I really love her as she does me. About a month into the r...",Other,Everybody,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,10895.0,3454.0,15237.0
+49,"My girlfriend and I have been dating for almost 1 year. I have 3 kids from my 6 year marriage with my ex, which ended a little over a year ago. Kids are 2, 3, and 5.
+
+My ex and I obviously have some b...",Author,Everybody,1.0,0.45454545454545453,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,11533.0,3417.0,15877.0
+50,"My sister and I (M) are both working people living out of town, and we came home for Thanksgiving. I was in her room and she was showing me the Instagram page of the guy she liked. I reached over and ...",Author,Everybody,1.0,0.7777777777777778,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,11301.0,3403.0,15615.0
+51,"    A couple weeks ago my girlfriend, Amanda, and I broke up. We had been together for about seven months. If it matters, the breakup was her choice, but I understand why she made it. She said we were...",Author,Everybody,1.0,0.9,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,11886.0,3331.0,16211.0
+52,"For some background, I recently rescued my dog and he has a lot issues with people, and other dogs. At first he was really scared of people/dogs and now he’s over excited. He hasn’t had lots of exposu...",Author,Everybody,1.0,0.625,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,12160.0,3535.0,16487.0
+53,"A little backstory, my best friend M and I have lived together for 6 years and were basically attached at the hip. About 6 months ago we met this guy through mutual friends. The night we met him I cou...",Author,Everybody,1.0,0.5555555555555556,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,11476.0,3455.0,15783.0
+54,So my girlfriend  (20) and I (21) broke up on NYE (she broke up with me )  witch  normally is pretty straight forward you change your Facebook status and you’re done. But we made the mistake of moving...,Other,Info,1.0,0.9090909090909091,True,"Confidence: 1.0
+Final Answer: Info",STOP,11277.0,3437.0,15598.0
+55,"Let me do a tldr: because its really a long story. I (M) am against third wave feminism and all of the stuff that comes with it. I believe that women and men are equal in all qualities,but i think tha...",Author,Everybody,1.0,0.6363636363636364,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,10696.0,3117.0,15016.0
+56,I work in an industry running structured cable for commercial security. I am currently working with 2 younger workers where we are with each other for 10 hours a day. Both of my peers are very into bo...,Author,,,0.8181818181818182,True,"[ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}]",error,,,
+57,"I'm 15, my dad is 43. Idk if that's relevant, but it's there if it is. 
+
+My dad is retired Army, kicked out after being ""blown up a few too many times"".  My twin and I recently joined a pseudomilitari...",Other,Everybody,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,15779.0,3352.0,20088.0
+58,"Hey guys, this is long. Apologies for any formatting issues/mistakes I'm in my phone and it's 2 am almost.
+
+Yesterday my 10 week old puppy was attacked by my sister-in-law's 10 month old French bulldo...",Other,Other,1.0,0.9090909090909091,True,"Confidence: 1.0
+Final Answer: Other",STOP,12765.0,3355.0,17073.0
+59,"I made a mistake because I need money and am strapped for cash.
+
+I found a sound module on eBay for half the price it usually goes for so I bought it and am waiting to ship.
+
+And I don't know how or w...",Other,Info,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Info",STOP,11250.0,3452.0,15567.0
+60,  I’m 29F my SO is 27NB. I tried to be alright with it but I didn’t find out until about 3 or 4 months after they started taking T-blockers and estrogen. I was really hurt when I found out but I tried...,Other,Nobody,1.0,0.55,False,"Confidence: 1.0
+Final Answer: Nobody",STOP,10892.0,3536.0,15208.0
+61,"I [21M] will be moving back to my mothers place temporarily next month. When I live at her place she likes to know what the balance on my bank account is, she wants to know if I can spare some money. ...",Other,Everybody,1.0,0.8571428571428571,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,9350.0,2712.0,13667.0
+62,My good friend struggles a bit more than me financially (though I’m by no means rich) and rarely gets to eat out or relax. So when she comes over I try to pamper her a little – I’ll get her favorite s...,Author,,,0.3684210526315789,False,"[ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}]",error,,,
+63,"btw sorry for the spelling or syntax, english is not my first language.
+
+Ok. So my gf [F16] and I [M16] have been together for about 1 month. We've had a great relationship, and we've had a lot of fun...",Author,Everybody,1.0,0.4444444444444444,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,13310.0,3452.0,17623.0
+64,"My mother just bought me some small clocks to complete a shelf of them which I got from my gradfather when he died. I just took it because some of them looked cool, but I don't have any need for them ...",Author,,,1.0,True,"[ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}]",error,,,
+65,"Hi, firstly I want to say english is not my first language, so I apologise for any mistakes.
+
+So for the story, I've been with this girl for about 2 months now. Despite having trust issues my whole li...",Author,,,0.5555555555555556,False,"[ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}]",error,,,
+66,I get to the gym at 5 am. Inside there is one person already working out. I have to wait until the doors open. This is everyday. The manager lets him in because she says that she trusts him if she doe...,Author,Info,1.0,0.7272727272727273,True,"Confidence: 1.0
+Final Answer: Info",STOP,10203.0,3231.0,14538.0
+67,"Long post. Obligatory warning about being on mobile and formatting and what not.
+
+So a little background. My husband and I have been married for just shy of 2 years. We recently moved from our overpri...",Author,Everybody,1.0,0.5,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,13546.0,3330.0,17887.0
+68,"I absolutely HATE my birthday. Not the date but just birthday in general. I wish I could hide it on Facebook so no one would know when it is. It’s not that I’m upset the day isn’t all ME, ME, ME!!! Th...",Other,,,0.7142857142857143,True,"[ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}]",error,,,
+69,"So the title definitely makes me sound like the asshole but, when I say constantly i mean constantly, shes a ""must be nice"" type of person. Let me explain her for a second, shes got a past so bad, tha...",Other,Everybody,1.0,0.8238993710691824,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,11405.0,3201.0,15726.0
+70,I'm a senior in high school. I've had a best friend since tenth grade. In the middle of our junior year me and my friend got stressed out and afraid because we felt like there was no way for us to bea...,Other,,,0.7777777777777778,True,"[ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}]",error,,,
+71,This evening me and my husband decided to order some take out for dinner. We don't have a lot of cash so this isn't something we do together often. I sent my husband a message with what i wanted from ...,Author,Info,1.0,0.625,False,"Confidence: 1.0
+Final Answer: Info",STOP,11444.0,3427.0,15798.0
+72,"Me(M19) and my girlfriend (F20) were planning a day out together tomorrow and she asks me what I have in mind that we should do, over text. I list a few ideas out of town in a nearby city, in which i ...",Other,Everybody,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,10407.0,2986.0,14718.0
+73,I don't work/barely work since we have 2 little kids and nobody to watch them/daycare is more expensive than what I would make full time. It's a great set up. He doesn't mind being the only one workin...,Other,Everybody,1.0,0.7962962962962963,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,11446.0,3309.0,15785.0
+74,"Just a little context before proceeding. This happened today, and I was feeling not well mentally ever since I woke up. In fact, I was so not in the mood so I haven't yet until now.
+
+Anyway, here we g...",Author,Everybody,1.0,0.926829268292683,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,12726.0,3467.0,17055.0
+75,My husband (“H”) and I co-lead a teen youth group with another couple. Our team discussed how a couple of older boys often play on their phones during the program. We’d heard that phones were a big po...,Other,Everybody,1.0,0.8,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,12149.0,3043.0,16470.0
+76,"Long story short my friend _surrounds_ themself in drama, they _live_ off the shit and more often than not _their_ drama begins to affect _my_ life. I can't really deal with drama, much less endless d...",Other,Everybody,1.0,0.8888888888888888,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,10792.0,3544.0,15101.0
+77,"A few weeks ago I broke up with my gf on 10 months because she was very emotionally manipulative. I wasn’t able to do anything without her, and she would be very annoyed and angry with me for doing an...",Other,Everybody,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,10304.0,3468.0,14611.0
+78,"I'll just cut to the chase here. So in the apartment I'm renting out, I have 2 roommates. We didn't really do any planning of any sort for how we would lay out our room and who gets what area to thems...",Other,Info,1.0,0.9166666666666666,True,"Confidence: 1.0
+Final Answer: Info",STOP,11023.0,3450.0,15363.0
+79,"A bit of background: I (21M) find myself in a dilemma with this current scenario, not knowing whether I was being unreasonable or not, it has knocking about in my head for the past couple of days with...",Author,Everybody,1.0,0.5714285714285714,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,14432.0,3325.0,18759.0
+80,"I know it sounds like an obvious answer but here me out.
+
+My husband has a coworker (Scott) who is having a serious affair behind his wife's back. He and his wife (Brooke) have two young children toge...",Other,,,0.7,True,"[ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}]",error,,,
+81,"Let me preface this by saying I, in no way hate women or think women do not belong in the gym. While also I am all for women empowerment. 
+
+So, the situation is my friend and I are also gym buddies. W...",Author,Author,1.0,0.6923076923076923,False,"Confidence: 1.0
+Final Answer: Author",STOP,11645.0,3171.0,15978.0
+82,"Okay so this year my boyfriend bought a house and we moved in together. We worked really hard to renovate and make it our own, but found money to be tight with all the renovations and new bills/expens...",Other,Everybody,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,13840.0,3311.0,18169.0
+83,"Now I know that the title is already showing me as an asshole. But hear me out here, I'm starting from the beginning.
+
+I'm really hyped about candy and always get my candy from sorta fancy gourmet sho...",Everybody,Everybody,1.0,0.7333333333333333,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,13680.0,3296.0,18003.0
+84,"Long story short. Last December my mother in-law had a breakdown over finances and tried  to take her own life.
+The doctors said she couldn't live by herself anymore so my wife put her mothers apartme...",Other,Everybody,1.0,0.75,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,11338.0,3280.0,15649.0
+85,"I have been friends with this guy for a long time and we have always ""almost dated"", but always somehow stayed just friends.
+
+Last year, while I was away at college, he finally officially asked me out...",Other,Everybody,1.0,0.9375,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,12610.0,3202.0,16946.0
+86,So my girlfriend doesn't shave her pubes and is pretty hairy down there. I've never asked about her grooming habits but from context clues I think she uses scissors to trim it down on occasion and lea...,Nobody,Info,1.0,0.4666666666666667,False,"Confidence: 1.0
+Final Answer: Info",STOP,10228.0,3179.0,14591.0
+87,"This has been bothering me for months, bouncing around inside my head. 
+
+Last year, my mother started using one of those singing apps. I think it was called Smule. She tried putting her voice out, and...",Other,Everybody,1.0,1.0,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,12652.0,3424.0,16968.0
+88,"I’m in college currently. Recently I’ve been in sort of a rut. I skip class, half-ass every activity I have (I’m on the college golf team and intern at the schools marketing department) and drink like...",Author,Nobody,1.0,0.6666666666666666,False,"Confidence: 1.0
+Final Answer: Nobody",STOP,11032.0,3502.0,15349.0
+89,"Mom lives in Colorado in same town as I do. Brother is in a southern shithole, sister is overseas (she's married to a multi-millionaire). So I am the natural choice to take care of mom. Which I said I...",Author,,,0.5714285714285714,False,"[ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The service is currently unavailable.', 'status': 'UNAVAILABLE'}}]",error,,,
+90,"My brother and his wife are both carriers for the recessive allele for Tay Sach’s Disease. If you didn’t know, Tay Sach’s Disease restricts the production of a protein vital for the development of mus...",Author,Nobody,1.0,0.6296296296296297,False,"Confidence: 1.0
+Final Answer: Nobody",STOP,11843.0,3364.0,16173.0
+91,"So yesterday,my friend came over to my house and we were playing on my Xbox, and I was making jokes about home being poor,”. A little thing about me is that I make jokes like this all the time but I u...",Author,Author,1.0,0.92,True,"Confidence: 1.0
+Final Answer: Author",STOP,9847.0,3487.0,14176.0
+92,"Ok, so this is pretty brief and sorry for the format, im on mobile.
+
+So about a month ago i joined a live a couple friends were making an instagram live, in my country, aborting is still illegal and w...",Other,Everybody,1.0,0.8,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,10446.0,3189.0,14755.0
+93,"The story is that my wife's childhood friend (acquaintance now) is breaking up with her boyfriend and father of her 9 month old daughter.
+
+He is not a good guy and is constantly having problems with t...",Other,Info,1.0,0.8888888888888888,True,"Confidence: 1.0
+Final Answer: Info",STOP,13682.0,3477.0,18017.0
+94,"I've been working for a company for almost two years now.  We did get a Christmas bonus last year, though I admit I don't remember exactly how much it was.  Looking at my bank statements, it seems to ...",Author,Info,1.0,0.6666666666666666,False,"Confidence: 1.0
+Final Answer: Info",STOP,10257.0,3408.0,14600.0
+95,"Let me start by saying I am not a meninist, someone who subs to MTGOW or incel-like ideologies. In the least virtue-signaling way possible, I am a self described feminist and a liberal. 
+
+That being s...",Other,Everybody,1.0,0.9069767441860465,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,12243.0,3030.0,16577.0
+96,"So basically, me and my SO have this other couple we hang around with. They are of the same age as us and we all attend the same college, it’s small so we see them around regularly.
+
+A while ago at a ...",Other,Everybody,1.0,0.5882352941176471,False,"Confidence: 1.0
+Final Answer: Everybody",STOP,10614.0,3389.0,14941.0
+97,"My dad left me, my sister, and my mom, when I was 9 (sister too, we're twins.) He came for a few visits and then disappeared. Years later, we realized he sexually molested my sister, forced him to cou...",Other,Info,1.0,0.5,False,"Confidence: 1.0
+Final Answer: Info",STOP,10786.0,3342.0,15113.0
+98,So my wife has worked at as a childcare worker for about 10 years. She currently works about 30 hours a week for a company that offers her no benefits and low compensation. She unfortunately has fibro...,Other,Everybody,1.0,0.8,True,"Confidence: 1.0
+Final Answer: Everybody",STOP,12051.0,3508.0,16371.0
+99,"**First things first, this is an alt account because of the nature of the post.**
+
+I am 19M, and I met Ashley at a bar a few weeks ago. We immediately hit it off. we were both into the same movies, an...",Author,,,0.7894736842105263,True,"[ERROR: 502 Bad Gateway. {'message': '<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=""initial-scale=1, minimum-scale=1, width=device-width"">\n  <title>Error 502 (Server Error)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>502.</b> <ins>That’s an error.</ins>\n  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>\n', 'status': 'Bad Gateway'}]",error,,,

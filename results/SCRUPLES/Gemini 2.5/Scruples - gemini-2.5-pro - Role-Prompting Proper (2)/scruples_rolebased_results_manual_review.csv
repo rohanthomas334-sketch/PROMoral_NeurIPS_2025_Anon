@@ -1,0 +1,11 @@
+row_index,scenario,ground_truth,pred_label,confidence,max_consensus,high_consensus,model_reply,finish_reason,prompt_tokens,completion_tokens,total_tokens
+836,I got banned from r/legaladvice and r/bestoflegaladvice for this shit. [Here](https://www.reddit.com/r/bestoflegaladvice/comments/a5tcdv/update_to_the_girl_being_groped_by_her_teacher_he/ebpnhct/) is ...,Author,,,0.8333333333333334,True,,,621,,621
+1148,"I only descoverd this subreddit yesterday and so I decided that I have a story that sorts fits into this subreddit and so I've decided to share it.
+
+(I'm wrote this on mobile so sorry if there's some ...",Everybody,,,0.5714285714285714,False,,,765,,765
+1229,"I say 'friend' because he's not REALLY my friend, he's just in my social circle. He's my flatmate at university.
+
+So I (20M) go to university with him (20M), I'll just call him Matt. Matt is in my soc...",Author,,,0.7777777777777778,True,,,792,,792
+1265,"So if you don’t know, there’s a MJ documentary that paints him as a ped*phile and child r*pist. Idk if its true, but I don’t CARE. 
+
+Apparently this didn’t sit right with my coworkers, as they were di...",Other,,,0.7,True,,,427,,427

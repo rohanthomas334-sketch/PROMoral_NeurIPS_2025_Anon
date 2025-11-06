@@ -1,0 +1,40 @@
+=== Originals vs Edits: Metric Comparison (Zero-shot CoT) ===
+
+accuracy:
+  originals: 0.9700
+  edits: 0.9500
+  delta_edits_minus_originals: -0.0200
+
+precision:
+  originals: 0.9495
+  edits: 0.9126
+  delta_edits_minus_originals: -0.0369
+
+recall:
+  originals: 0.9895
+  edits: 0.9895
+  delta_edits_minus_originals: 0.0000
+
+f1:
+  originals: 0.9691
+  edits: 0.9495
+  delta_edits_minus_originals: -0.0196
+
+ece:
+  originals: 0.0588
+  edits: 0.0548
+  delta_edits_minus_originals: -0.0040
+
+brier:
+  originals: 0.0299
+  edits: 0.0470
+  delta_edits_minus_originals: 0.0171
+
+accuracy_per_1k_tokens:
+  originals: 0.0348
+  edits: 0.0336
+  delta_edits_minus_originals: -0.0012
+n_originals: 200
+n_edits: 200
+valid_rows_originals: 200
+valid_rows_edits: 200

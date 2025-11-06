@@ -1,0 +1,2 @@
+row_index,scenario,ground_truth,pred_label,confidence,max_consensus,high_consensus,model_reply,finish_reason,prompt_tokens,completion_tokens,total_tokens
+481,,Other,,,0.4444444444444444,False,"It looks like you haven't provided a scenario to evaluate. Please provide a description of the situation you'd like me to assess, and I'll be happy to help!",stop,444,31,475

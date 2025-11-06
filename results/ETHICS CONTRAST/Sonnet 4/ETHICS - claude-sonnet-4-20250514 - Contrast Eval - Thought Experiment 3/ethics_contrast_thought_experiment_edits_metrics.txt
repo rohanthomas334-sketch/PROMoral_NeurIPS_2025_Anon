@@ -1,0 +1,15 @@
+=== Metrics Summary ===
+tag: edits
+n: 25
+accuracy: 0.8400
+precision: 0.8824
+recall: 0.8824
+f1: 0.8824
+ece: 0.1260
+brier: 0.1075
+total_tokens: 325803
+prompt_tokens: 239969
+completion_tokens: 85834
+accuracy_per_1k_tokens: 0.0026
+valid_output_extractions: 25
+n_eval_rows: 25

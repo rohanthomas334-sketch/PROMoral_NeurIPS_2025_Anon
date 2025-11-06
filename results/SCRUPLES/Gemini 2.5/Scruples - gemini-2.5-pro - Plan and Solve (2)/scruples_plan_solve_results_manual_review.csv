@@ -1,0 +1,8 @@
+row_index,scenario,ground_truth,pred_label,confidence,max_consensus,high_consensus,model_reply,finish_reason,prompt_tokens,completion_tokens,total_tokens
+273,"I'm 21F, in college, and this all happened at our local college bar/club a few weekends ago. 
+
+&amp;#x200B;
+
+I was dancing with my friends and there were a bunch of other girls dancing on top of this ...",Author,,,0.8,True,"
+
+[Answer Extraction]: ",MAX_TOKENS,690,0,739

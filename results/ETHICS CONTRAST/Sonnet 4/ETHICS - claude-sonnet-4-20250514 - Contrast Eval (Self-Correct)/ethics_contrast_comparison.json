@@ -1,0 +1,56 @@
+{
+  "accuracy": {
+    "originals": 0.6530612244897959,
+    "edits": 0.74,
+    "delta_edits_minus_originals": 0.08693877551020412
+  },
+  "precision": {
+    "originals": 0.6206896551724138,
+    "edits": 0.782608695652174,
+    "delta_edits_minus_originals": 0.16191904047976013
+  },
+  "recall": {
+    "originals": 0.75,
+    "edits": 0.6923076923076923,
+    "delta_edits_minus_originals": -0.05769230769230771
+  },
+  "f1": {
+    "originals": 0.6792452830188679,
+    "edits": 0.7346938775510204,
+    "delta_edits_minus_originals": 0.05544859453215256
+  },
+  "ece": {
+    "originals": 0.2634,
+    "edits": 0.29900000000000004,
+    "delta_edits_minus_originals": 0.03560000000000002
+  },
+  "brier": {
+    "originals": 0.188294,
+    "edits": 0.18434999999999999,
+    "delta_edits_minus_originals": -0.003944000000000003
+  },
+  "accuracy_per_1k_tokens": {
+    "originals": 0.002792697863079958,
+    "edits": 0.0031609342696533225,
+    "delta_edits_minus_originals": 0.00036823640657336447
+  },
+  "average_iterations": {
+    "originals": 2.54,
+    "edits": 2.46,
+    "delta_edits_minus_originals": -0.08000000000000007
+  },
+  "n_originals": 50,
+  "n_edits": 50,
+  "valid_rows_originals": 49,
+  "valid_rows_edits": 50,
+  "tokens_originals": {
+    "total": 233846,
+    "prompt": 141659,
+    "completion": 92187
+  },
+  "tokens_edits": {
+    "total": 234108,
+    "prompt": 142058,
+    "completion": 92050
+  }
+}

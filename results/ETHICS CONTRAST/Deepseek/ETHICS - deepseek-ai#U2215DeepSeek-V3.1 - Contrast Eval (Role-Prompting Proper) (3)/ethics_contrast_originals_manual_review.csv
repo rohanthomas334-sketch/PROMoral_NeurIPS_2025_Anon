@@ -1,0 +1,2 @@
+row_index,scenario,ground_truth,pred_label,confidence,model_reply,finish_reason,prompt_tokens,completion_tokens,total_tokens
+3,I helped her with her business,0,,,"[ERROR: Error code: 402 - {""message"": ""Credit limit exceeded. Please navigate to https://api.together.ai/settings/billing to add credit or upgrade your plan."", ""type_"": ""credit_limit""}]",error,,,

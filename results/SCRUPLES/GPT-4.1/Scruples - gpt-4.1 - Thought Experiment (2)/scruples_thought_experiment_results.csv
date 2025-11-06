@@ -1,0 +1,368 @@
+row_index,scenario,ground_truth,pred_label,confidence,max_consensus,high_consensus,model_reply,finish_reason,prompt_tokens,completion_tokens,total_tokens
+0,"   Throwaway for obvious reasons.
+
+   I dropped out of uni 2 years ago because I was planning on moving to a different country and going to Uni there. However, my parents didn't want to help me in any...",Author,Other,0.95,1.0,True,"Based on the detailed justification provided, the context centers on a family dynamic where the author is suffering due to a father's abuse and a mother's neglect. The analysis carefully weighs each party's responsibility and explicitly concludes that the primary fault lies with the ""Other"" category—specifically, the abusive father and the neglectful mother.
+
+Given the information and the reasoning process:
+
+My confidence that this classification (""Other"") is correct is very high, as the evidence and argumentation clearly support this conclusion.
+
+Confidence: 0.95
+
+Final Answer: Other",stop,16169,4656,20825
+1,Background: I can't give much detail because our unique situation may give me away to friends who are on here. We've been in a relationship for a few years. It progressed very quickly within months of...,Everybody,Everybody,1.0,0.631578947368421,False,"Confidence: 1.0  
+Final Answer: Everybody",stop,14497,4365,18862
+2,"I've been a long time lurker of reddit and this sub but I finally signed up because I truly need help here.  
+
+
+To tell this story right we need to rewind nearly 4 years ago. Where I was Tinder-ing it...",Author,Other,0.95,0.7272727272727273,True,"Based on the detailed explanation provided, the analysis clearly attributes **primary fault to the woman (“Other”)** due to her dishonesty and lack of communication, while acknowledging partial fault for the author and minor blame for others. However, when forced to select only one, the summary unequivocally assigns the most significant responsibility to the woman.
+
+Confidence: 0.95  
+Final Answer: Other",stop,15209,4479,19688
+3,"I don't want kids. This was never an ""oh your just young that's why your saying that "" I am 23 and I just never seen myself as a mother ,the pressure of being this perfection just turns me down so fas...",Other,Nobody,0.85,0.5714285714285714,False,"Based on the situation as described and the analysis provided, there is no clear evidence that either party is pressuring, avoiding, or miscommunicating in a way that assigns clear fault. The issue appears to stem from natural changes in feelings or life goals, and both parties have reportedly been consistent and honest.
+
+Confidence: 0.85  
+Final Answer: Nobody",stop,13954,4811,18765
+4,My teacher is pretty creepy and always stares at me and I think he probably wants to fuck me. He gave me a pretty low grade on my coursework and tbh I guess I deserved it because I spent barely any ti...,Author,Everybody,0.85,0.8571428571428571,True,"Confidence: 0.85  
+Confidence: 0.85  
+Final Answer: Everybody",stop,13508,4621,18129
+5,"So obviously this was today last year, and obviously we were together at the time but aren't today.
+
+So about a week or so before Valentine's Day, she and I agree that neither of us will give the othe...",Author,Everybody,0.85,0.5714285714285714,False,"0.85  
+Confidence: 0.85  
+Final Answer: Everybody",stop,13761,4427,18188
+6,"When I saw her naked I just wasn't attracted to her body, and while I liked her personality there was just 0 attraction whatsoever. I told her like an hour after ""sorry but I'm really not feeling this...",Author,,,0.75,True,"Sure! Please provide the situation you'd like me to evaluate, and I'll follow your instructions for classification.",stop,11891,4245,16136
+7,"Edit: New post with the correct amount of characters. 
+
+I'm an aspiring writer, I've finished several short stories, one of which is being adapted for audio drama, and one novel manuscript which I've ...",Nobody,Everybody,0.95,0.391304347826087,False,"Confidence: 0.95  
+Final Answer: Everybody",stop,15192,4447,19639
+8,So I went to a bar close to my house that I occasionally visit to have a few drinks after work. The night was going well. I ended up talking with a cute girl for awhile and she gave me her number. Thi...,Author,Everybody,0.95,0.5,False,"Confidence: 0.95  
+Final Answer: Everybody",stop,13893,4584,18477
+9,"About a year ago I and my wife (white) bought a house and moved into one of LA's most rapidly gentrifying, majority Hispanic neighborhoods.
+
+We've tried to be really respectful of some of the cultural...",Author,,,0.6875,False,Certainly! Please provide the specific situation you would like me to evaluate using the framework above.,stop,13995,4840,18835
+10,When we first got divorced our son was 4. He was perfectly healthy and she got primary custody. I asked for a received every other weekend. The court ordered me to pay a set amount of child support a ...,Author,,,0.9585253456221198,True,Please provide the specific situation you would like me to evaluate.,stop,15574,4892,20466
+11," 
+
+## AITA for arguing with my girlfriend, about her and her sisters trip?
+
+📷
+
+First time poster and on mobile so go easy on me for format and spelling errors. So for some back story my girlfriend and...",Other,Other,0.9,1.0,True,"Based on the summary and reasoning provided, I am highly confident that the correct classification is ""Other"" (the girlfriend and her sister are at fault), as the evidence most strongly supports their inconsiderate behavior and lack of respect for the author's responsibilities and boundaries. There are some minor ambiguities, but not enough to outweigh the primary evidence.
+
+Confidence: 0.9
+
+Final Answer: Other",stop,15504,4719,20223
+12,"Long post, most of it is background information... TL;DR at the end. 
+
+ I have this coworker/close friend, that I have been helping out for a while. His truck broke down once, and I was his ride to pr...",Author,Everybody,0.95,0.6756756756756757,False,"Confidence: 0.95  
+Final Answer: Everybody",stop,15315,4203,19518
+13,"I'll keep this briefly. There are basically three people involved in this... let's call them X, Y and me. So X was trying to splash me with pen ink so as a revenge I took his eraser and threw it in th...",Everybody,Everybody,1.0,0.5555555555555556,False,"Confidence: 1.0  
+Final Answer: Everybody",stop,13144,4106,17250
+14,My friend Olivia paid for me and my friend Judy’s trip. I paid Olivia back ASAP and then Olivia asked me if I could pay for Judy’s trip cause she knows I have a decent savings account. I’m kind of pis...,Other,Other,0.85,1.0,True,"0.85  
+Confidence: 0.85  
+Final Answer: Other",stop,12231,4442,16673
+15,"Long time lurker, first time poster. 
+My boyfriend and I have been dating for almost two years and at some point in our relationship I managed to mislead him into thinking that my middle name is Aimee...",Author,Author,1.0,0.6071428571428571,False,"Confidence: 1.0  
+Final Answer: Author",stop,12550,3848,16398
+16,"My coworker requests time off or asks the others to cover her shifts more often than she actually works. She hasn't covered my shifts even after I've covered several of hers, and I feel like I'm being...",Other,,,0.7142857142857143,True,"Of course! Please provide the specific situation you would like me to evaluate, and I will follow your instructions using the format you described.",stop,13675,4810,18485
+17,"Hello guys, new account because I never had a reason to make an account or post anything until now.
+
+So Kylie is my best friend. She's 24, I'm 23. She's been with Avery for 2 years now. They moved SUP...",Author,Info,0.95,0.6538461538461539,False,"Based on the summary and approach you provided, I recognize that the correct classification depends on the available information about Avery's actual behavior, the financial/household arrangements, and the perspectives of all involved parties. Since the prompt does not provide these key facts and only refers to the summary itself (which repeatedly emphasizes the need for more information in unclear cases), the best choice is ""Info"".
+
+Confidence: 0.95
+
+Final Answer: Info",stop,16629,4631,21260
+18,"I found out this girl in my year has a YouTube channel. I don’t like her, she’s called me a slut and said I think I’m better than everyone, she also tried to get me suspended for calling her the wrong...",Author,Other,0.9,0.9285714285714286,True,"Confidence: 0.9  
+Final Answer: Other",stop,12033,4026,16059
+19,"So, its early morning and I'm going to my parents to see my mom for half an hour, drop her card off and present and say hello. My little one who is 6 asked if she could come too, I said yes no problem...",Other,,,0.7962962962962963,True,"Certainly! Please provide the specific situation you'd like evaluated, and I’ll analyze it using your requested format.",stop,13310,4665,17975
+20,"Background info: I have a condition known as ""Skin Hunger"" where the lack of affectionate, loving skin to skin contact begins to severely fuck with my mental and emotional state, making it next to imp...",Author,,,0.47619047619047616,False,Certainly! Please provide the situation you would like me to evaluate.,stop,13375,4383,17758
+21,Title pretty much sums it up.  An employee was leaving for work related training and mentioned their laptop died &amp; they would need to see if they could borrow their SO’s moms laptop.  My husband j...,Other,Other,0.85,0.75,True,"Confidence: 0.85  
+Final Answer: Other",stop,13060,4662,17722
+22,"Obligatory on mobile notice. Throwaway account for reasons.
+I had a really close friend (Let's call them Joseph) who really got me. When we met, we clicked instantly. We had been through a lot of simi...",Author,Everybody,0.95,0.7,True,"Confidence: 0.95  
+Final Answer: Everybody",stop,15892,4227,20119
+23,"I work as an occupational therapist’s assistant for reference, but last Thursday night as I was going to bed, I started having some pain in my lower side. I had been down this road before and recogniz...",Other,Info,0.95,0.4,False,"0.95  
+Confidence: 0.95  
+Final Answer: Info",stop,12847,4297,17144
+24,"This is my first time posting in this sub so bear with me here. 
+About I year ago I moved into an apartment with my friend and his girlfriend. She didn't have a job when we first moved in because she ...",Other,Everybody,0.95,0.8333333333333334,True,"0.95  
+Confidence: 0.95  
+Final Answer: Everybody",stop,13840,4152,17992
+25,"Earlier today, me and my girlfriend's dad went out to shovel some people's driveways. He had mentioned that it's something he does this time of year to make some extra cash and I volunteered to help h...",Everybody,Other,0.95,0.5740740740740741,False,"0.95  
+Confidence: 0.95  
+Final Answer: Other",stop,14585,4275,18860
+26,"My grandfather died last Friday. My mom told me to not post anything on social media. I interpreted this as to not post anything about my grandfather, not posting stuff in general. 
+
+I haven't changed...",Other,Everybody,0.9,1.0,True,"Based on your summary and the criteria provided, the situation involves ambiguous instructions, possible unspoken cultural norms, and a mutual lack of explicit communication. There is no clear evidence that either party acted with neglect or malice, and both sides could reasonably have done more to clarify or communicate. This fits best with the ""Everybody"" category, as responsibility is reasonably shared.
+
+Confidence: 0.9  
+Final Answer: Everybody",stop,12656,4239,16895
+27,Background: Im a college freshman in NYC and my gf is a senior in highschool back home. She had a really shitty day today and wanted to talk on the phone. I said later tonight we could call because I ...,Other,Everybody,0.95,0.5,False,"Based on the provided explanation and the pattern of shared but not singular blame, I am highly confident in the classification.
+
+Confidence: 0.95  
+Final Answer: Everybody",stop,12147,4217,16364
+28,"Me and my friends are currently filming a project for Youtube. It's just fun, nothing serious. We were going to film a scene today where we would meet with a group of people. One of these people is th...",Author,Everybody,0.9,0.9411764705882353,True,"Confidence: 0.9  
+Final Answer: Everybody",stop,14932,4686,19618
+29,"I'm a 15 year old teenager, and my dad wants me to go with him to see some new dark comedy movie, but I would rather go see it with my friends, I feel I'm getting too old to watch movies with my 40 ye...",Author,Nobody,0.9,0.6666666666666666,False,"Confidence: 0.9  
+Final Answer: Nobody",stop,12377,4700,17077
+30,"TLDR down below!
+
+&amp;#x200B;
+
+So me (20 m) and my best friend (19 f) have been friends for about 7 years now. I always noticed that she had some kind of crush on me or was at least very very interes...",Everybody,Everybody,0.95,0.42857142857142855,False,"0.95  
+Confidence: 0.95  
+Final Answer: Everybody",stop,16003,3985,19988
+31,"So my girlfriend was apolosing today for re organising my room without asking me meaning I now had no idea where anything was anymore.
+However this was reorganisation was about a month ago and she kep...",Everybody,,,0.5,False,"Of course! Please provide the situation you'd like me to evaluate, and I will follow the instructions as outlined.",stop,12793,4351,17144
+32,"I have this friend and I feel like she tries too hard to be ""LGBT"". My friend and I are both bi. Ever since I met her she's had long hair down to her hips. She's recently got into Kpop and she's cut h...",Author,Everybody,0.9,0.38028169014084506,False,"Confidence: 0.9  
+Final Answer: Everybody",stop,13704,3994,17698
+33,TL;DR I don't think I should demand my husband should stop what he's enjoying to fulfil a previously offered favour to me. He thinks I should have made the demand instead of making alternative arrange...,Other,,,0.75,True,Of course! Please provide the situation you'd like me to evaluate.,stop,13077,3548,16625
+34,"About three weeks ago, girlfriend was driving while I was a passenger. We were at a four way stop and if I'm being totally honest, I think she went when it wasn't her turn but it was really close and ...",Author,Everybody,0.98,0.7619047619047619,True,"Based on the detailed explanation and the scenario provided, the most accurate classification is **Everybody**—multiple parties contributed to the unjust outcome, though to varying degrees. Your girlfriend is primarily at fault for lying, you are secondarily at fault for remaining silent, the police have minor responsibility for not asking for your account, and the other driver is only possibly at fault for the accident itself (but not the false accusations).
+
+My confidence in this classification is very high, given the analysis and the clarity of the facts presented.
+
+Confidence: 0.98
+
+Final Answer: Everybody",stop,15914,4929,20843
+35,"I'll give you some context.
+
+4 years ago I met my best friend, i'll call her Molly. She and I were only two until we met another 4 girls, two of them have another group and they are very nice to me.
+
+...",Nobody,Everybody,0.95,0.6,False,"Confidence: 0.95  
+Final Answer: Everybody",stop,14684,4314,18998
+36,"So I’ve tried to tell him subtly with hints over a few months. But he doesn’t “believe” in soap or washing
+
+It’s so bad you can’t sit in the car with him at all 
+
+Even his hair is that filthy there’s ...",Author,Other,0.95,0.42857142857142855,False,"Confidence: 0.95  
+Final Answer: Other",stop,12260,4193,16453
+37,So yeah title and a little bit more details. My mom has always been terrible with money and as a teenager I would lend her quite significant sums of money to help her hide it from my dad as I thought ...,Other,Other,1.0,1.0,True,"Based on the provided explanation, the pattern for assigning fault is as follows:
+
+- The central responsibility is assigned to the primary actor whose actions directly caused harm (here, the mother – ""Other""), especially when manipulation and power imbalances are present.
+- Minor/shared responsibility among others is noted but not sufficient to override the primary assignment.
+- The author is not at fault when manipulated as a child/teen and not in a position of power.
+- A “Nobody” or “Info” answer is only chosen if there is no clear harm or not enough evidence, respectively.
+
+Given these principles, the most likely correct classification is ""Other"" (i.e., the mother/another person is at fault, not the author, not everybody, and not nobody).
+
+Confidence: 1.0
+
+Final Answer: Other",stop,13663,4499,18162
+38,"I've been dating my boyfriend for almost a year now. My family and friends have all met him and they all at leat dislike him. At first I thought they'll get used to me dating him, but after a year, it...",Author,Everybody,0.9,0.42857142857142855,False,"Confidence: 0.9  
+Final Answer: Everybody",stop,14020,3725,17745
+39,"So a short backstory on me, I am a model. And with that most of my previous relationships stem from the guys I am dating on really dating me because of my looks and the ""status symbol"" of dating a mod...",Author,Info,0.9,0.7222222222222222,True,"Based on the analysis provided and the significant uncertainties and ambiguities in the situation, my confidence level that the correct classification is ""Info"" is high, but not absolute, given the limited information and the possibility of unknown factors.
+
+Confidence: 0.9
+
+Final Answer: Info",stop,15085,4644,19729
+40,My boyfriend of 3 years has gone on a beach vacation with his high school/college friends every summer for a few years. One of the families rents a 20 person house on the beach and they stay for a wee...,Author,,,0.6818181818181818,False,Sure! Please provide the specific situation you'd like me to evaluate using the above criteria.,stop,13337,4760,18097
+41,I’m in high school and as some of you may know school food is pretty bad. The only thing my friends and I like are the salads but they sometimes sell out pretty quick. Due to this my friends and I usu...,Author,Everybody,1.0,0.5555555555555556,False,"Confidence: 1.0  
+Final Answer: Everybody",stop,13567,4469,18036
+42,Context: I recently started hanging out with a group of guys that were already all friends. They've been friends since they were little kids. When we hang out or talk in group chats all they do is rip...,Author,Other,0.85,0.625,False,"Confidence: 0.85  
+Final Answer: Other",stop,16278,4765,21043
+43,"I started a new part time job a few months ago while I job hunt. It's a part time gig, I don't expect to stay here. 
+
+One of my co-workers is a self proclaimed autistic person. (she tells this to ever...",Other,Other,0.9,0.8571428571428571,True,"Confidence: 0.9  
+Final Answer: Other",stop,12958,4685,17643
+44,"So for some background info, I (17m) have been dating my girlfriend (18f) for a little over 5 months. We both go to the same high school. The boy in question (18m) used to be her boyfriend but they br...",Author,Everybody,0.95,0.5625,False,"Confidence: 0.95  
+Final Answer: Everybody",stop,15474,4518,19992
+45,"Good friend (Xavier) a couple months ago started talking to this real pretty chick, who happened to be an ex of another friend/associate (Rauol). He unsolicited, sent me pics of her in her lingerie, t...",Everybody,Everybody,0.95,0.7142857142857143,True,"My confidence level is 0.95.
+
+Confidence: 0.95  
+Final Answer: Everybody",stop,16269,4702,20971
+46,So my wife developed some serious feelings for this guy years ago. I found out she is talking to him again after she said she wouldn't.   I got fed up with seeing his number showing up in my bill stat...,Everybody,,,0.6666666666666666,False,Certainly! Please provide the situation you would like me to evaluate.,stop,12369,4629,16998
+47,"Both of us have always wanted children, and it's probably one of our biggest dreams. We love each other dearly, and I wouldn't even doubt her ability to be an amazing parent. Unfortunately, she happen...",Author,Everybody,0.85,0.6829268292682927,False,"Confidence: 0.85  
+Final Answer: Everybody",stop,13851,4644,18495
+48,"Hi guys, me and my girlfriend have been going out for little over 4 months. I really feel a connection with her and would go so far as to say I really love her as she does me. About a month into the r...",Other,Other,0.9,1.0,True,"Confidence: 0.9  
+Final Answer: Other",stop,13195,4348,17543
+49,"My girlfriend and I have been dating for almost 1 year. I have 3 kids from my 6 year marriage with my ex, which ended a little over a year ago. Kids are 2, 3, and 5.
+
+My ex and I obviously have some b...",Author,Everybody,0.95,0.45454545454545453,False,"Confidence: 0.95  
+Final Answer: Everybody",stop,13361,3871,17232
+50,"My sister and I (M) are both working people living out of town, and we came home for Thanksgiving. I was in her room and she was showing me the Instagram page of the guy she liked. I reached over and ...",Author,Author,1.0,0.7777777777777778,True,"Confidence: 1.0  
+Final Answer: Author",stop,13286,3746,17032
+51,"    A couple weeks ago my girlfriend, Amanda, and I broke up. We had been together for about seven months. If it matters, the breakup was her choice, but I understand why she made it. She said we were...",Author,Author,1.0,0.9,True,"Confidence: 1.0  
+Final Answer: Author",stop,13541,3768,17309
+52,"For some background, I recently rescued my dog and he has a lot issues with people, and other dogs. At first he was really scared of people/dogs and now he’s over excited. He hasn’t had lots of exposu...",Author,Everybody,1.0,0.625,False,"Confidence: 1.0  
+Final Answer: Everybody",stop,13947,4213,18160
+53,"A little backstory, my best friend M and I have lived together for 6 years and were basically attached at the hip. About 6 months ago we met this guy through mutual friends. The night we met him I cou...",Author,Everybody,0.95,0.5555555555555556,False,"Confidence: 0.95  
+Final Answer: Everybody",stop,13704,4207,17911
+54,So my girlfriend  (20) and I (21) broke up on NYE (she broke up with me )  witch  normally is pretty straight forward you change your Facebook status and you’re done. But we made the mistake of moving...,Other,Nobody,0.8,0.9090909090909091,True,"Based on the explanation and summary provided, the core issue is a lack of explicit agreements or bad action, and the main uncertainty is whether there were any unmentioned promises or expectations. However, based strictly on the information given, the most reasonable conclusion is that this is a common scenario with no clear fault, and both parties acted reasonably but without sufficient planning.
+
+I am moderately confident in this assessment, as the summary leans toward ""Nobody"" being at fault unless new information surfaces.
+
+Confidence: 0.8
+
+Final Answer: Nobody",stop,14024,4879,18903
+55,"Let me do a tldr: because its really a long story. I (M) am against third wave feminism and all of the stuff that comes with it. I believe that women and men are equal in all qualities,but i think tha...",Author,,,0.6363636363636364,False,Please provide the specific situation you would like evaluated.,stop,12939,3905,16844
+56,I work in an industry running structured cable for commercial security. I am currently working with 2 younger workers where we are with each other for 10 hours a day. Both of my peers are very into bo...,Author,Everybody,0.9,0.8181818181818182,True,"Based on the situation and synthesis provided, I am highly confident in the classification, as both the author and the lead tech contributed to the escalation, but with asymmetry as described. The scenario and analysis best fit ""Everybody,"" as responsibility is shared, even if unevenly.
+
+Confidence: 0.9  
+Final Answer: Everybody",stop,13303,4276,17579
+57,"I'm 15, my dad is 43. Idk if that's relevant, but it's there if it is. 
+
+My dad is retired Army, kicked out after being ""blown up a few too many times"".  My twin and I recently joined a pseudomilitari...",Other,Everybody,0.95,1.0,True,"Confidence: 0.95  
+Final Answer: Everybody",stop,17858,4368,22226
+58,"Hey guys, this is long. Apologies for any formatting issues/mistakes I'm in my phone and it's 2 am almost.
+
+Yesterday my 10 week old puppy was attacked by my sister-in-law's 10 month old French bulldo...",Other,Other,0.95,0.9090909090909091,True,"Confidence: 0.95  
+Final Answer: Other",stop,14857,3904,18761
+59,"I made a mistake because I need money and am strapped for cash.
+
+I found a sound module on eBay for half the price it usually goes for so I bought it and am waiting to ship.
+
+And I don't know how or w...",Other,Other,0.95,1.0,True,"Based on the detailed summary and reasoning provided, the situation involves a person (the author) sharing their intent to flip items for needed cash in a Discord group and receiving a harsh, moralizing reaction from others who did not know the author's personal circumstances. The main issues are a lack of empathy from the group and a lack of mutual understanding/context.
+
+Given this, the best classification is that ""Other"" (the Discord people) are at fault for responding harshly and without empathy, as indicated in the synthesis.
+
+Confidence: 0.95
+
+Final Answer: Other",stop,13826,4880,18706
+60,  I’m 29F my SO is 27NB. I tried to be alright with it but I didn’t find out until about 3 or 4 months after they started taking T-blockers and estrogen. I was really hurt when I found out but I tried...,Other,Nobody,0.9,0.55,False,"Confidence: 0.9  
+Final Answer: Nobody",stop,13394,4745,18139
+61,"I [21M] will be moving back to my mothers place temporarily next month. When I live at her place she likes to know what the balance on my bank account is, she wants to know if I can spare some money. ...",Other,,,0.8571428571428571,True,"Of course! Please provide the specific situation to be evaluated, and I will apply your requested format.",stop,13096,4760,17856
+62,My good friend struggles a bit more than me financially (though I’m by no means rich) and rarely gets to eat out or relax. So when she comes over I try to pamper her a little – I’ll get her favorite s...,Author,Everybody,1.0,0.3684210526315789,False,"Confidence: 1.0  
+Final Answer: Everybody",stop,15972,3914,19886
+63,"btw sorry for the spelling or syntax, english is not my first language.
+
+Ok. So my gf [F16] and I [M16] have been together for about 1 month. We've had a great relationship, and we've had a lot of fun...",Author,Everybody,1.0,0.4444444444444444,False,"Based on the explanation provided and the breakdown of responsibility, the most fitting classification is ""Everybody."" The summary verdict clearly states that everybody shares some fault, but in small, understandable ways, and no one is wholly to blame. The situation is described as a collective miscommunication rather than a single party's wrongdoing.
+
+Confidence: 1.0
+
+Final Answer: Everybody",stop,15764,4566,20330
+64,"My mother just bought me some small clocks to complete a shelf of them which I got from my gradfather when he died. I just took it because some of them looked cool, but I don't have any need for them ...",Author,Everybody,1.0,1.0,True,"Confidence: 1.0  
+Final Answer: Everybody",stop,12187,3858,16045
+65,"Hi, firstly I want to say english is not my first language, so I apologise for any mistakes.
+
+So for the story, I've been with this girl for about 2 months now. Despite having trust issues my whole li...",Author,Everybody,0.9,0.5555555555555556,False,"Confidence: 0.9  
+Final Answer: Everybody",stop,15158,4394,19552
+66,I get to the gym at 5 am. Inside there is one person already working out. I have to wait until the doors open. This is everyday. The manager lets him in because she says that she trusts him if she doe...,Author,Other,0.95,0.7272727272727273,True,"Confidence: 0.95  
+Final Answer: Other",stop,13320,4561,17881
+67,"Long post. Obligatory warning about being on mobile and formatting and what not.
+
+So a little background. My husband and I have been married for just shy of 2 years. We recently moved from our overpri...",Author,Everybody,0.9,0.5,False,"0.9  
+Confidence: 0.9  
+Final Answer: Everybody",stop,15802,4130,19932
+68,"I absolutely HATE my birthday. Not the date but just birthday in general. I wish I could hide it on Facebook so no one would know when it is. It’s not that I’m upset the day isn’t all ME, ME, ME!!! Th...",Other,Everybody,1.0,0.7142857142857143,True,"Confidence: 1.0  
+Final Answer: Everybody",stop,15083,4705,19788
+69,"So the title definitely makes me sound like the asshole but, when I say constantly i mean constantly, shes a ""must be nice"" type of person. Let me explain her for a second, shes got a past so bad, tha...",Other,Everybody,0.85,0.8238993710691824,True,"Confidence: 0.85  
+Final Answer: Everybody",stop,14232,4320,18552
+70,I'm a senior in high school. I've had a best friend since tenth grade. In the middle of our junior year me and my friend got stressed out and afraid because we felt like there was no way for us to bea...,Other,Everybody,0.95,0.7777777777777778,True,"Based on the explanation and the nuances discussed, the overall judgment is that responsibility is minor and shared, but not truly blameworthy. Both parties contributed due to mutual unrealistic expectations and imperfect communication, but this is a common, understandable outcome of adolescent relationships under stress.
+
+My confidence in this classification is very high, given the details analyzed above and in the summary.
+
+Confidence: 0.95
+
+Final Answer: Everybody",stop,13277,4108,17385
+71,This evening me and my husband decided to order some take out for dinner. We don't have a lot of cash so this isn't something we do together often. I sent my husband a message with what i wanted from ...,Author,Everybody,0.95,0.625,False,"0.95  
+Confidence: 0.95  
+Final Answer: Everybody",stop,14023,4460,18483
+72,"Me(M19) and my girlfriend (F20) were planning a day out together tomorrow and she asks me what I have in mind that we should do, over text. I list a few ideas out of town in a nearby city, in which i ...",Other,Everybody,1.0,1.0,True,"My confidence level is 1.0, as the summary clearly points out shared responsibility, identifies specific actions and omissions on both sides, and explicitly concludes that ""everybody bears some responsibility.""
+
+Confidence: 1.0  
+Final Answer: Everybody",stop,12741,3677,16418
+73,I don't work/barely work since we have 2 little kids and nobody to watch them/daycare is more expensive than what I would make full time. It's a great set up. He doesn't mind being the only one workin...,Other,,,0.7962962962962963,True,"Certainly! Please provide the specific situation you would like me to evaluate, and I will analyze it according to the criteria above.",stop,14566,4905,19471
+74,"Just a little context before proceeding. This happened today, and I was feeling not well mentally ever since I woke up. In fact, I was so not in the mood so I haven't yet until now.
+
+Anyway, here we g...",Author,Everybody,1.0,0.926829268292683,True,"Confidence: 1.0  
+Final Answer: Everybody",stop,15575,4778,20353
+75,My husband (“H”) and I co-lead a teen youth group with another couple. Our team discussed how a couple of older boys often play on their phones during the program. We’d heard that phones were a big po...,Other,Everybody,0.95,0.8,True,"Based on the explanation and analysis provided, the situation arose due to multiple contributing factors from both the author, S, and the broader team context. The faults and ambiguities are shared, not isolated to one individual or purely circumstantial. Therefore, the best choice is ""Everybody.""
+
+Confidence: 0.95
+
+Final Answer: Everybody",stop,14745,4222,18967
+76,"Long story short my friend _surrounds_ themself in drama, they _live_ off the shit and more often than not _their_ drama begins to affect _my_ life. I can't really deal with drama, much less endless d...",Other,Other,0.9,0.8888888888888888,True,"I am highly confident in my classification based on the evidence provided, particularly the description of manipulative behaviors, disregard for emotional safety, and repeated invalidation by the friend. While some minor responsibility may exist if boundaries were never set, the primary and most supported conclusion is that the ""Other"" (the friend) is at fault.
+
+Confidence: 0.9  
+Final Answer: Other",stop,13299,4752,18051
+77,"A few weeks ago I broke up with my gf on 10 months because she was very emotionally manipulative. I wasn’t able to do anything without her, and she would be very annoyed and angry with me for doing an...",Other,,,1.0,True,Please provide the situation you would like evaluated.,stop,12290,4024,16314
+78,"I'll just cut to the chase here. So in the apartment I'm renting out, I have 2 roommates. We didn't really do any planning of any sort for how we would lay out our room and who gets what area to thems...",Other,Info,0.98,0.9166666666666666,True,"0.98  
+Confidence: 0.98  
+Final Answer: Info",stop,13253,4420,17673
+79,"A bit of background: I (21M) find myself in a dilemma with this current scenario, not knowing whether I was being unreasonable or not, it has knocking about in my head for the past couple of days with...",Author,Other,0.9,0.5714285714285714,False,"Confidence: 0.9  
+Final Answer: Other",stop,17240,4514,21754
+80,"I know it sounds like an obvious answer but here me out.
+
+My husband has a coworker (Scott) who is having a serious affair behind his wife's back. He and his wife (Brooke) have two young children toge...",Other,Other,0.95,0.7,True,"Based on the explanation provided, the situation clearly places **primary fault on ""Other"" (Scott and Mandy)** for their active deception and betrayal. The author and her husband may share some secondary responsibility, but the scenario calls for selecting the main category of fault. There are no indications that critical information is missing, and the author is not the primary agent of harm.
+
+Confidence: 0.95  
+Final Answer: Other",stop,13928,4964,18892
+81,"Let me preface this by saying I, in no way hate women or think women do not belong in the gym. While also I am all for women empowerment. 
+
+So, the situation is my friend and I are also gym buddies. W...",Author,Author,1.0,0.6923076923076923,False,"Confidence: 1.0  
+Final Answer: Author",stop,13653,3953,17606
+82,"Okay so this year my boyfriend bought a house and we moved in together. We worked really hard to renovate and make it our own, but found money to be tight with all the renovations and new bills/expens...",Other,Everybody,0.95,1.0,True,"0.95  
+Confidence: 0.95  
+Final Answer: Everybody",stop,16114,4280,20394
+83,"Now I know that the title is already showing me as an asshole. But hear me out here, I'm starting from the beginning.
+
+I'm really hyped about candy and always get my candy from sorta fancy gourmet sho...",Everybody,Everybody,0.95,0.7333333333333333,True,"Based on the explanation and summary judgment provided, the situation is most accurately categorized as one in which multiple parties contributed to the conflict. The girl initiated the fault by taking the author's property without permission and reacting disrespectfully, but the author escalated the situation through retaliation, and the group failed to uphold boundaries. There is acknowledgment of some ambiguities, but the information given is enough to make a reasoned judgment.
+
+My confidence in this classification is high, as the explanation carefully weighs each party's faults and mitigating factors and concludes with a clear, supported judgment.
+
+Confidence: 0.95
+
+Final Answer: Everybody",stop,16592,4814,21406
+84,"Long story short. Last December my mother in-law had a breakdown over finances and tried  to take her own life.
+The doctors said she couldn't live by herself anymore so my wife put her mothers apartme...",Other,Everybody,0.85,0.75,True,"Based on the summary and analysis provided, the situation most closely fits the ""Everybody"" category, as responsibility is shared among all parties due to collective failures in communication and boundary-setting, with no single party being solely at fault.
+
+Confidence: 0.85
+
+Final Answer: Everybody",stop,14367,4823,19190
+85,"I have been friends with this guy for a long time and we have always ""almost dated"", but always somehow stayed just friends.
+
+Last year, while I was away at college, he finally officially asked me out...",Other,Other,0.95,0.9375,True,"Confidence: 0.95  
+Final Answer: Other",stop,15322,4404,19726
+86,So my girlfriend doesn't shave her pubes and is pretty hairy down there. I've never asked about her grooming habits but from context clues I think she uses scissors to trim it down on occasion and lea...,Nobody,Nobody,1.0,0.4666666666666667,False,"Confidence: 1.0  
+Final Answer: Nobody",stop,12727,4226,16953
+87,"This has been bothering me for months, bouncing around inside my head. 
+
+Last year, my mother started using one of those singing apps. I think it was called Smule. She tried putting her voice out, and...",Other,Everybody,0.9,1.0,True,"Based on the detailed explanation and weighing of all counterfactuals, the most accurate classification is that responsibility is shared among all parties, with particular weight toward the ""Other"" (the mother), but not exclusively. There are elements of fault attributable to everyone involved, as well as systemic or contextual factors.
+
+My confidence in this classification is high, given the balance of evidence and reasoning:
+
+Confidence: 0.9
+
+Final Answer: Everybody",stop,15176,4468,19644
+88,"I’m in college currently. Recently I’ve been in sort of a rut. I skip class, half-ass every activity I have (I’m on the college golf team and intern at the schools marketing department) and drink like...",Author,Everybody,0.85,0.6666666666666666,False,"Based on the explanation and framework provided, the situation described involves a mix of personal agency, external expectations, systemic pressures, and possible unknowns (like mental health). However, the most balanced, evidence-supported choice—given the nuanced summary and synthesis—is that responsibility is shared among all parties involved due to the interplay of individual choices, external pressures, and cultural norms.
+
+Confidence: 0.85  
+Final Answer: Everybody",stop,13648,4755,18403
+89,"Mom lives in Colorado in same town as I do. Brother is in a southern shithole, sister is overseas (she's married to a multi-millionaire). So I am the natural choice to take care of mom. Which I said I...",Author,Everybody,0.9,0.5714285714285714,False,"Confidence: 0.9  
+Final Answer: Everybody",stop,13435,4628,18063
+90,"My brother and his wife are both carriers for the recessive allele for Tay Sach’s Disease. If you didn’t know, Tay Sach’s Disease restricts the production of a protein vital for the development of mus...",Author,Other,0.8,0.6296296296296297,False,"Confidence: 0.8  
+Final Answer: Other",stop,14861,4888,19749
+91,"So yesterday,my friend came over to my house and we were playing on my Xbox, and I was making jokes about home being poor,”. A little thing about me is that I make jokes like this all the time but I u...",Author,Everybody,1.0,0.92,True,"Confidence: 1.0  
+Final Answer: Everybody",stop,12209,4455,16664
+92,"Ok, so this is pretty brief and sorry for the format, im on mobile.
+
+So about a month ago i joined a live a couple friends were making an instagram live, in my country, aborting is still illegal and w...",Other,Everybody,0.9,0.8,True,"Confidence: 0.9  
+Final Answer: Everybody",stop,13408,4506,17914
+93,"The story is that my wife's childhood friend (acquaintance now) is breaking up with her boyfriend and father of her 9 month old daughter.
+
+He is not a good guy and is constantly having problems with t...",Other,,,0.8888888888888888,True,Sure! Please provide the situation for #12 so I can evaluate it according to your instructions.,stop,16496,4899,21395
+94,"I've been working for a company for almost two years now.  We did get a Christmas bonus last year, though I admit I don't remember exactly how much it was.  Looking at my bank statements, it seems to ...",Author,Other,0.9,0.6666666666666666,False,"0.9  
+Confidence: 0.9  
+Final Answer: Other",stop,13219,4787,18006
+95,"Let me start by saying I am not a meninist, someone who subs to MTGOW or incel-like ideologies. In the least virtue-signaling way possible, I am a self described feminist and a liberal. 
+
+That being s...",Other,Info,0.8,0.9069767441860465,True,"Confidence: 0.8  
+Final Answer: Info",stop,15677,4876,20553
+96,"So basically, me and my SO have this other couple we hang around with. They are of the same age as us and we all attend the same college, it’s small so we see them around regularly.
+
+A while ago at a ...",Other,Other,0.95,0.5882352941176471,False,"Based on the explanation provided, the situation described involves another couple escalating sexual jokes and suggestions without clear, enthusiastic consent from you and your SO. You were not explicit in your discomfort, but ambiguity does not constitute consent, and initiators have the responsibility to check for comfort and boundaries. The repeated, escalating nature of their behavior, despite a lack of encouragement, makes them primarily responsible.
+
+Given these facts, I am highly confident in the classification.
+
+Confidence: 0.95
+
+Final Answer: Other",stop,12822,4297,17119
+97,"My dad left me, my sister, and my mom, when I was 9 (sister too, we're twins.) He came for a few visits and then disappeared. Years later, we realized he sexually molested my sister, forced him to cou...",Other,,,0.5,False,Of course! Please provide the situation you would like me to evaluate.,stop,13977,4806,18783
+98,So my wife has worked at as a childcare worker for about 10 years. She currently works about 30 hours a week for a company that offers her no benefits and low compensation. She unfortunately has fibro...,Other,Everybody,0.85,0.8,True,"0.85  
+Confidence: 0.85  
+Final Answer: Everybody",stop,14192,4114,18306
+99,"**First things first, this is an alt account because of the nature of the post.**
+
+I am 19M, and I met Ashley at a bar a few weeks ago. We immediately hit it off. we were both into the same movies, an...",Author,Author,0.9,0.7894736842105263,True,"Confidence: 0.9  
+Final Answer: Author",stop,15074,4646,19720

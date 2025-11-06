@@ -1,0 +1,34 @@
+row_index,scenario,ground_truth,pred_label,confidence,max_consensus,high_consensus,model_reply,finish_reason,num_iterations,prompt_tokens,completion_tokens,total_tokens
+10,When we first got divorced our son was 4. He was perfectly healthy and she got primary custody. I asked for a received every other weekend. The court ordered me to pay a set amount of child support a ...,Author,,0.8,0.9585253456221198,True,"Looking at this situation with fresh perspective, I need to balance the legal framework with reasonable parental expectations during a medical crisis.
+
+**Key Considerations:**
+
+**Legal vs. Moral Obligations:**
+The author is correct that they're fulfilling their court-ordered obligations. Child support amounts are calculated to cover the child's needs, and the custody arrangement reflects each parent's capacity to provide care.
+
+**Changed Circumstances:**
+The child's epilepsy represents a significant change that wasn't anticipated in the original custody agreement. However, such changes typically require formal legal modification rather than informal renegotiation.
+
+**Reasonable Requests vs. Overreach:**
+- Medical bills: Not the author's legal responsibility without court modification
+- Additional childcare: Contradicts the custody arrangement's premise
+- Summer camp: An enhancement, not a necessity
+- Medical trial meeting: The author has legitimate scheduling constraints and reasonable medical concerns
+
+**The Author's Position:**
+- Genuinely constrained financially as a college student
+- Maintaining their legal obligations consistently
+- Has valid concerns about experimental treatment when current medication is working
+- Cannot reasonably be expected to suddenly take on custodial responsibilities they weren't awarded
+
+**The Mother's Position:**
+- Facing genuine hardship due to unexpected medical costs
+- Seeking reasonable co-parenting cooperation
+- Dealing with increased caregiving burden alone
+
+**Assessment:**
+While the situation is unfortunate and the mother's struggles are real, the author is not being unreasonable. They're fulfilling their legal obligations within their genuine constraints. The mother's requests, while understandable, effectively ask the author to exceed their court-defined responsibilities without formal modification. If additional support is needed, the appropriate remedy is returning to court for a custody/support modification, not expecting voluntary compliance beyond legal requirements.
+
+Confidence: 0.80
+
+Final Answer: Not the Author",stop,3,7746,2696,10442

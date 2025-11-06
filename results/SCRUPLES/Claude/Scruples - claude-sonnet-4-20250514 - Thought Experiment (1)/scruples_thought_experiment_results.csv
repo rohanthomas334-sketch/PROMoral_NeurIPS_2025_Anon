@@ -1,0 +1,791 @@
+row_index,scenario,ground_truth,pred_label,confidence,max_consensus,high_consensus,model_reply,finish_reason,prompt_tokens,completion_tokens,total_tokens
+0,"   Throwaway for obvious reasons.
+
+   I dropped out of uni 2 years ago because I was planning on moving to a different country and going to Uni there. However, my parents didn't want to help me in any...",Author,Other,0.7,1.0,True,"Looking at this detailed fault assessment, I need to evaluate whether the conclusion of ""Everybody"" with heavily weighted responsibility toward the parents (80% parents, 20% author) is the most accurate classification.
+
+The analysis clearly establishes:
+- Parents bear the heaviest responsibility through abuse, enabling, and creating systemic inequality
+- Author bears limited responsibility, significantly mitigated by trauma responses
+- The ""Everybody"" classification is acknowledged as technically correct but heavily skewed
+
+The key tension is whether a situation where one party bears 80% of the fault and another bears 20% (with significant mitigating factors) should be classified as ""Everybody"" or ""Other.""
+
+Given that:
+1. The parents created and maintain the fundamental dysfunction
+2. The author's responsibility is limited and heavily mitigated by trauma
+3. The analysis notes this could shift toward ""Other"" with more information about available alternatives
+4. Trauma responses may not constitute genuine moral culpability
+
+The 80/20 split with significant mitigation for the author suggests this falls closer to ""Other"" than true shared responsibility. When fault is this heavily weighted toward one party, and the lesser party's actions are largely trauma responses to the primary party's abuse, it indicates the primary party bears the predominant moral responsibility.
+
+Confidence: 0.7
+
+Final Answer: Other",end_turn,15190,4000,19190
+1,Background: I can't give much detail because our unique situation may give me away to friends who are on here. We've been in a relationship for a few years. It progressed very quickly within months of...,Everybody,Everybody,0.85,0.631578947368421,False,"Looking at this situation, I can see clear evidence of dysfunction from both partners that has created a cycle of poor communication and avoidance.
+
+The author demonstrates fault through:
+- Hiding the encounter with a ""problematic ex"" which violates open relationship transparency norms
+- Making questionable partner choices that could reasonably upset their SO
+- Using indirect communication rather than clearly expressing needs
+- Showing hypocrisy by being upset about their SO's outside activities while engaging in potentially more problematic behavior themselves
+
+The SO shows equally problematic behavior through:
+- Consistently avoiding intimacy with their primary partner while actively seeking it elsewhere
+- Failing to communicate reasons for the avoidance or discuss relationship concerns
+- Displaying what appears to be deliberate compartmentalization or punishment behavior rather than natural desire fluctuation
+
+Both partners have failed to establish proper open relationship foundations including clear communication protocols, appropriate boundaries, and regular relationship check-ins. They're using the open relationship structure to avoid addressing core intimacy issues rather than enhancing their primary relationship.
+
+This isn't a case where one person is reactive to the other's behavior - both are actively contributing to a dysfunctional dynamic through poor choices and communication failures. The pattern shows mutual responsibility for the relationship deterioration.
+
+Confidence: 0.85
+
+Final Answer: Everybody",end_turn,13220,3613,16833
+2,"I've been a long time lurker of reddit and this sub but I finally signed up because I truly need help here.  
+
+
+To tell this story right we need to rewind nearly 4 years ago. Where I was Tinder-ing it...",Author,Everybody,0.95,0.7272727272727273,True,"Looking at this situation, I need to evaluate the fault distribution based on the framework provided in the explanation.
+
+The woman clearly bears primary responsibility through:
+- Foundational deception about exclusivity during conception
+- Years of failing to address obvious paternity questions
+- Poor crisis management with angry messages instead of addressing concerns
+
+The author bears secondary but significant responsibility through:
+- Choosing the most disruptive revelation method (casual supermarket encounter)
+- Waiting 3+ years, allowing bonds to solidify
+- Acting from a ""nothing to lose"" mentality rather than principled motivations
+- Poor timing and tactical insensitivity
+
+The explanation establishes that even though the woman's deception created the fundamental problem, the author's handling was so poor that he bears ""significant independent responsibility"" for how the truth emerged. His failures ""transformed what could have been a private resolution into maximum chaos for all parties.""
+
+This matches the ""Everybody"" classification perfectly - multiple parties making ethically questionable choices that compound into a worse outcome than any single person's actions would have created alone. The innocent partner suffers the most while bearing no fault, which reinforces why both other parties' failures are problematic.
+
+The framework clearly establishes unequal but distributed responsibility, with both parties contributing meaningfully to the harmful outcome through different types of failures.
+
+Confidence: 0.95
+
+Final Answer: Everybody",end_turn,14032,3619,17651
+3,"I don't want kids. This was never an ""oh your just young that's why your saying that "" I am 23 and I just never seen myself as a mother ,the pressure of being this perfection just turns me down so fas...",Other,Nobody,0.85,0.5714285714285714,False,"Looking at this analysis, I find it to be thorough and well-reasoned. The explanation clearly demonstrates that this is a case of natural relationship evolution rather than wrongdoing by either party.
+
+The key factors supporting a ""Nobody"" classification are:
+- Both parties were initially honest about their positions
+- The boyfriend's change of heart appears genuine and triggered by an unplanned experience
+- No evidence of deception or manipulation from either side
+- The fundamental incompatibility emerged organically over time
+
+While the analysis mentions some minor communication issues and notes where more information could be helpful, these are relatively small concerns that don't rise to the level of ""fault."" The boyfriend's indirect approach through jokes/hints is suboptimal but doesn't constitute being ""at fault"" for the core relationship problem.
+
+The analysis correctly identifies this as a tragic but natural divergence of life goals between two people who genuinely care for each other. Neither person is wrong for their feelings or desires - they've simply grown in incompatible directions on a non-negotiable issue.
+
+Confidence: 0.85
+
+Final Answer: Nobody",end_turn,12163,3571,15734
+4,My teacher is pretty creepy and always stares at me and I think he probably wants to fuck me. He gave me a pretty low grade on my coursework and tbh I guess I deserved it because I spent barely any ti...,Author,Everybody,0.9,0.8571428571428571,True,"Looking at this analysis, I find the reasoning to be well-structured and compelling. The explanation demonstrates a thorough counterfactual analysis that considers the actions and motivations of both parties.
+
+The key insight is that both parties engaged in behavior that corrupted institutional systems - the author weaponized harassment allegations for personal academic gain, while the teacher's immediate capitulation to grade changes when threatened suggests either actual misconduct or a willingness to compromise academic integrity under pressure. Neither party's behavior is excusable, and both contributed to undermining educational and safety systems.
+
+The analysis effectively shows how the teacher's response (immediate grade change) is particularly telling - legitimate professionals typically don't respond to accusations by immediately offering grade modifications. This suggests either guilt or professional misconduct. Meanwhile, the author's admitted use of harassment claims as leverage for grades represents clear academic dishonesty and ethical violation.
+
+The systemic implications are well-articulated - both parties corrupted systems designed to protect educational integrity and student safety for their own purposes.
+
+Confidence: 0.9
+
+Final Answer: Everybody",end_turn,10813,3318,14131
+5,"So obviously this was today last year, and obviously we were together at the time but aren't today.
+
+So about a week or so before Valentine's Day, she and I agree that neither of us will give the othe...",Author,Author,0.9,0.5714285714285714,False,"Looking at this analysis, I find it thorough and well-reasoned. The explanation clearly establishes that:
+
+1. There was an explicit agreement (""no gifts"")
+2. The author deliberately violated this agreement while concealing their intention
+3. This constitutes a breach of trust and boundary violation
+4. The negative consequences were predictable and directly resulted from the author's deceptive behavior
+
+The analysis effectively addresses why other categories don't apply - this wasn't mutual miscommunication or lack of information, but rather a unilateral decision to break an agreement. While the other person could have communicated more about their reasons, this doesn't change the fundamental ethical issue of deliberate deception.
+
+The reasoning is sound and the evidence strongly supports the conclusion that the author bears primary responsibility for creating this conflict through their calculated decision to prioritize their romantic vision over their partner's explicitly stated preferences and their mutual agreement.
+
+Confidence: 0.9
+
+Final Answer: Author",end_turn,11982,3502,15484
+6,"When I saw her naked I just wasn't attracted to her body, and while I liked her personality there was just 0 attraction whatsoever. I told her like an hour after ""sorry but I'm really not feeling this...",Author,Author,0.6,0.75,True,"Looking at this analysis, I need to weigh the different responsibility percentages and moral considerations presented.
+
+The explanation identifies the Author as bearing 60% responsibility due to:
+- Dishonesty about his true reasons (claiming ""personal problems"" instead of lack of attraction)
+- Potentially proceeding with intimacy despite having doubts
+- Poor timing that maximized emotional harm
+
+However, the analysis also acknowledges significant complicating factors:
+- 25% ""Info-needed"" due to missing context about expectations and prior indicators
+- 15% ""Nobody"" due to the inherent unpredictability of physical chemistry
+- Recognition that some incompatibilities only emerge through intimate experience
+
+While the Author holds a plurality of responsibility at 60%, the substantial ambiguities (40% combined for info-needed and nobody elements) create enough uncertainty that I cannot be highly confident in assigning primary fault. The dishonesty is clearly problematic, but the fundamental unpredictability of attraction and missing contextual information significantly complicate the moral assessment.
+
+The analysis itself notes these are ""complex moral ambiguities that prevent clear-cut fault assignment,"" which suggests meaningful uncertainty in the classification.
+
+Confidence: 0.6
+
+Final Answer: Author",end_turn,10380,3595,13975
+7,"Edit: New post with the correct amount of characters. 
+
+I'm an aspiring writer, I've finished several short stories, one of which is being adapted for audio drama, and one novel manuscript which I've ...",Nobody,Everybody,0.9,0.391304347826087,False,"Looking at this analysis, I can see a thorough breakdown of fault allocation between the author (40%), friend (35%), and shared responsibility (25%). The explanation clearly demonstrates that both parties made significant mistakes that contributed to the conflict.
+
+The author's tactless delivery and unnecessarily harsh communication style caused real harm, while the friend's unrealistic expectations and poor reception of feedback created an impossible situation. Both failed to establish proper boundaries and communication frameworks for their relationship.
+
+The analysis convincingly rules out the other categories by showing there's sufficient information to make a judgment, both parties bear meaningful responsibility (not just one), and their mistakes were avoidable rather than blameless.
+
+The detailed breakdown of specific failures from each party, combined with the identification of shared communication and boundary issues, strongly supports the conclusion that this is a case where everyone involved bears some fault.
+
+Confidence: 0.9
+
+Final Answer: Everybody",end_turn,14301,3750,18051
+8,So I went to a bar close to my house that I occasionally visit to have a few drinks after work. The night was going well. I ended up talking with a cute girl for awhile and she gave me her number. Thi...,Author,Everybody,0.9,0.5,False,"Looking at this situation, I need to evaluate the fault distribution based on the explanation provided.
+
+The explanation clearly establishes that all three parties - the farting customer, the author, and the bartender - each had reasonable alternatives available that could have prevented or de-escalated the conflict. Each party chose confrontational or defensive approaches rather than courtesy and problem-solving.
+
+The analysis shows:
+- The customer continued inappropriate public behavior without attempting mitigation
+- The author chose direct confrontation over diplomatic alternatives 
+- The bartender failed in conflict resolution and took sides unprofessionally
+
+This represents what the explanation calls ""a classic breakdown in social contract where everyone chose confrontation or defensiveness over courtesy and problem-solving."" The fault is distributed across all parties with varying degrees of responsibility, but everyone bears some fault for their choices and actions.
+
+While there is some ambiguity about the customer's medical status, the explanation notes that even with potential medical issues, some social responsibility remains. The core conclusion is that each party had agency and made choices that contributed to the conflict escalation.
+
+Confidence: 0.9
+
+Final Answer: Everybody",end_turn,11992,3499,15491
+9,"About a year ago I and my wife (white) bought a house and moved into one of LA's most rapidly gentrifying, majority Hispanic neighborhoods.
+
+We've tried to be really respectful of some of the cultural...",Author,Everybody,0.85,0.6875,False,"Looking at this comprehensive fault assessment, I can see that the analysis thoroughly examines multiple perspectives and identifies legitimate responsibilities across different parties - the author, the neighbor, and broader systemic issues. The explanation clearly articulates why this is an ""Everybody"" scenario rather than placing blame on a single party.
+
+The assessment demonstrates strong reasoning by:
+- Identifying specific fault elements for each party with appropriate severity levels
+- Recognizing systemic/community failures as significant contributing factors
+- Acknowledging key information gaps while still reaching a substantive conclusion
+- Explicitly ruling out other fault categories with clear justification
+
+The analysis shows that while more information could refine the understanding of fault distribution, there's sufficient evidence that multiple parties bear responsibility for the conflict situation.
+
+Confidence: 0.85
+
+Final Answer: Everybody",end_turn,11392,3425,14817
+10,When we first got divorced our son was 4. He was perfectly healthy and she got primary custody. I asked for a received every other weekend. The court ordered me to pay a set amount of child support a ...,Author,Author,0.9,0.9585253456221198,True,"Looking at this comprehensive analysis, I find the reasoning sound and well-supported. The assessment clearly identifies the core issue: a parent refusing to participate in accessing potentially life-changing medical treatment for their child with epilepsy during a medical crisis.
+
+The key factors that support this conclusion are:
+- The author is treating court-ordered minimum custody as a ceiling rather than baseline responsibility
+- Refusing to attend even one medical appointment that could unlock specialized treatment
+- Taking a transactional ""visitor"" approach to parenting rather than acting as a co-parent
+- Showing inflexibility during a genuine medical emergency
+- Prioritizing personal convenience over the child's urgent medical needs
+
+While the author faces legitimate financial constraints as a college student, these don't excuse abandoning parental duties during a medical crisis. The ex-wife's requests appear reasonable given she's managing primary care and seeking appropriate treatment.
+
+The analysis appropriately rules out other categories - this isn't a case where everyone shares equal blame or where circumstances alone are to blame. One parent is actively blocking access to medical care through deliberate choices.
+
+Confidence: 0.9
+
+Final Answer: Author",end_turn,13511,3644,17155
+11," 
+
+## AITA for arguing with my girlfriend, about her and her sisters trip?
+
+📷
+
+First time poster and on mobile so go easy on me for format and spelling errors. So for some back story my girlfriend and...",Other,Other,0.85,1.0,True,"Looking at this detailed analysis, I can see a clear pattern of problematic behavior from the girlfriend and her sister that created this conflict.
+
+The key issues that stand out:
+- Critical information about transportation needs was withheld until the last minute
+- Reasonable alternatives (rideshare services) were dismissed without valid justification
+- The girlfriend made unilateral assumptions about the author's availability without prior discussion
+- There's a clear disregard for the author's caregiving responsibilities to his autistic sister
+- The sister shows entitled behavior by demanding pickup when she could have made other arrangements
+
+The analysis correctly identifies that this isn't just miscommunication - it's a pattern of inconsiderate behavior and unreasonable expectations. The author's position is reasonable given the constraints and the last-minute nature of these demands.
+
+The impact on a vulnerable third party (the autistic sister's routine) and the availability of dismissed alternatives further support that the girlfriend and sister created this situation through poor planning and inconsiderate demands.
+
+Confidence: 0.85
+
+Final Answer: Other",end_turn,14152,3969,18121
+12,"Long post, most of it is background information... TL;DR at the end. 
+
+ I have this coworker/close friend, that I have been helping out for a while. His truck broke down once, and I was his ride to pr...",Author,Everybody,0.85,0.6756756756756757,False,"Looking at this situation, I can see clear failures from both parties that contributed to the conflict:
+
+The Author created the underlying problem through past irresponsibility with school equipment, used emotional manipulation by leveraging past favors, and escalated the situation by storming out without allowing for proper discussion. These actions demonstrate poor judgment and communication skills.
+
+The Friend, while having legitimate concerns about lending expensive equipment, failed to communicate their reasoning, didn't offer any alternative solutions or compromises, and could have handled the situation with more empathy given it was described as a genuine academic emergency.
+
+This represents a mutual breakdown in communication and conflict resolution. Both parties had understandable positions - the Author had an urgent academic need, and the Friend had reasonable concerns about potential property damage based on past behavior. However, neither handled the situation maturely or effectively.
+
+The conflict was avoidable if either party had communicated better, making this a shared responsibility despite the Author bearing somewhat more fault for creating the original conditions.
+
+Confidence: 0.85
+
+Final Answer: Everybody",end_turn,14270,3689,17959
+13,"I'll keep this briefly. There are basically three people involved in this... let's call them X, Y and me. So X was trying to splash me with pen ink so as a revenge I took his eraser and threw it in th...",Everybody,Everybody,0.85,0.5555555555555556,False,"Looking at this situation, I need to evaluate the cascade of events and the moral responsibility of each party.
+
+The author initiated the conflict by taking Y's property without permission - this was clearly wrong and set everything in motion. However, Y's response was dramatically disproportionate, escalating from a minor property violation to physical violence including pushing, property destruction, and punching. The author then responded with a slap after being punched.
+
+The explanation correctly identifies this as a situation where both parties made significant moral errors:
+- The author's initial wrongdoing and failure to de-escalate
+- Y's massive overreaction and continued escalation to violence
+- Both parties' failure to seek peaceful resolution
+
+This represents a clear case where multiple parties bear moral responsibility. The author's initial violation doesn't excuse Y's violent overreaction, but the author's poor decisions throughout contributed meaningfully to the outcome. Neither party acted as the ""adult in the room"" to prevent escalation.
+
+The reasoning in the explanation is sound - this falls into the ""cascade of poor decisions"" category where initial wrongdoing by one party leads to disproportionate responses that create new moral violations, ultimately resulting in shared fault.
+
+Confidence: 0.85
+
+Final Answer: Everybody",end_turn,11556,3515,15071
+14,My friend Olivia paid for me and my friend Judy’s trip. I paid Olivia back ASAP and then Olivia asked me if I could pay for Judy’s trip cause she knows I have a decent savings account. I’m kind of pis...,Other,Everybody,0.95,1.0,True,"Looking at this detailed fault assessment, I can see a clear systematic breakdown of how each party contributed to the problematic situation through communication failures and poor financial planning.
+
+The analysis demonstrates that:
+- Judy (50% fault) created the core problem through financial irresponsibility and exploitative dynamics
+- Olivia (30% fault) made poor financial decisions and inappropriately shifted responsibility 
+- The Author (20% fault) failed to communicate boundaries and clarify expectations
+
+The explanation emphasizes this was a ""collective failure of adult financial communication"" where each person's mistakes ""enabled and amplified the others' mistakes."" All three parties made assumptions, avoided necessary conversations, and allowed personal relationships to become dangerously entangled with financial obligations.
+
+While the fault distribution is uneven, the analysis clearly concludes that all parties bear responsibility for creating this ""perfect storm of financial awkwardness"" through their individual failures to communicate properly.
+
+Confidence: 0.95
+
+Final Answer: Everybody",end_turn,10510,3426,13936
+15,"Long time lurker, first time poster. 
+My boyfriend and I have been dating for almost two years and at some point in our relationship I managed to mislead him into thinking that my middle name is Aimee...",Author,Author,0.9,0.6071428571428571,False,"Looking at this fault assessment, I can see a clear and well-reasoned analysis that identifies the author as primarily responsible for the conflict. The assessment effectively demonstrates how:
+
+1. The author deliberately transformed an innocent misunderstanding into prolonged deception
+2. The deception was planned to continue indefinitely (""drag this out as long as possible"")
+3. This represents a serious breach of trust in a committed relationship
+4. The boyfriend's reaction appears proportionate to discovering years of deliberate lies
+
+While the assessment notes some missing context that could provide additional nuance, these gaps don't appear significant enough to change the fundamental conclusion. The core issue - deliberate, sustained deception in a serious relationship - is clearly established and points definitively to author fault.
+
+The analysis correctly distinguishes between the trivial nature of the subject matter (a middle name) and the serious nature of the deceptive behavior pattern. The boyfriend's strong reaction is presented as a reasonable response to discovering his partner has been systematically lying to him.
+
+Confidence: 0.9
+
+Final Answer: Author",end_turn,11688,3552,15240
+16,"My coworker requests time off or asks the others to cover her shifts more often than she actually works. She hasn't covered my shifts even after I've covered several of hers, and I feel like I'm being...",Other,Other,0.85,0.7142857142857143,True,"Based on the detailed explanation provided, I can see a clear analysis that identifies the coworker as bearing primary responsibility due to their pattern of exploitation, broken promises, and disproportionate impact on others. The analysis also recognizes significant contributing factors from management/system failures and minimal responsibility from the author.
+
+The explanation demonstrates a thorough consideration of the situation with concrete evidence of problematic behavior patterns and systemic enabling factors. While there are ""EVERYBODY"" elements present, the analysis clearly states this is ""primarily an OTHER situation"" with the coworker bearing the main fault.
+
+The reasoning is well-structured and addresses why other categories don't fit as well, particularly noting that this isn't ""NOBODY"" due to clear human choices and failures, and isn't ""INFO"" because sufficient concrete patterns are evident.
+
+Confidence: 0.85
+
+Final Answer: Other",end_turn,11567,3473,15040
+17,"Hello guys, new account because I never had a reason to make an account or post anything until now.
+
+So Kylie is my best friend. She's 24, I'm 23. She's been with Avery for 2 years now. They moved SUP...",Author,Everybody,0.85,0.6538461538461539,False,"Looking at this situation, I need to evaluate the fault distribution based on the analysis provided.
+
+The analysis clearly establishes that the Author bears ""primary responsibility"" due to catastrophic timing (confronting someone right after their engagement), two years of poor communication, questionable evidence interpretation, and creating an unnecessary ultimatum scenario.
+
+However, Kylie also contributed meaningfully to the conflict by repeatedly pressing for an opinion she suspected would be negative, then reacting explosively and dismissively when she received it, rather than engaging constructively.
+
+The analysis explicitly states ""EVERYBODY is at fault"" and explains that while the timing and approach were primarily the author's responsibility, ""this conflict required both parties' participation"" and both ""failed in their responsibilities to each other as friends.""
+
+The key distinction here is between ""primary fault"" (which lies with the Author) and ""fault distribution"" (which involves both parties). Since the question asks who is ""at fault"" rather than who bears ""primary fault,"" and the analysis demonstrates meaningful fault on both sides, this falls into the ""Everybody"" category.
+
+The analysis provides sufficient detail about both parties' actions and motivations to make this determination, even while acknowledging some ambiguity about the underlying relationship dynamics.
+
+Confidence: 0.85
+
+Final Answer: Everybody",end_turn,15119,3614,18733
+18,"I found out this girl in my year has a YouTube channel. I don’t like her, she’s called me a slut and said I think I’m better than everyone, she also tried to get me suspended for calling her the wrong...",Author,Everybody,0.85,0.9285714285714286,True,"Looking at this situation, I can see clear fault on both sides with escalating harmful behaviors from each party.
+
+The other girl initiated conflict through serious verbal harassment using gendered slurs (""slut"") and made formal accusations that could have academic consequences. This created a hostile environment and represents genuinely harmful behavior.
+
+However, the author is now planning deliberate online harassment/cyberbullying in response, which represents a significant qualitative escalation. Moving from in-person conflict to planned online harassment typically involves broader reach and permanence of harm. The author is also displaying judgmental attitudes and appears to be choosing retaliation over conflict resolution.
+
+This represents a clear case of mutual escalation where both parties are actively choosing increasingly harmful responses rather than de-escalation or seeking appropriate resolution through proper channels. Neither party is blameless - the other girl's initial harassment was serious and harmful, but the author's planned response crosses into cyberbullying territory.
+
+The key factor is that both individuals made active choices to escalate harm rather than resolve the conflict constructively, moving this beyond normal teenage disagreement into mutually harmful behavior.
+
+Confidence: 0.85
+
+Final Answer: Everybody",end_turn,9936,3284,13220
+19,"So, its early morning and I'm going to my parents to see my mom for half an hour, drop her card off and present and say hello. My little one who is 6 asked if she could come too, I said yes no problem...",Other,Other,0.8,0.7962962962962963,True,"Looking at this explanation, I can see a thorough analysis that identifies specific problematic behaviors from the partner while acknowledging some missing context that could potentially affect the assessment.
+
+The explanation clearly outlines manipulative and escalatory behavior from the partner, including character attacks, contradictory arguments, and involving the child inappropriately. These are concrete behavioral issues that go beyond simple miscommunication. The partner's response is described as disproportionate to what appears to be a reasonable 30-minute Mother's Day visit.
+
+While the analysis notes several unknowns (patterns of behavior, prior communication, cultural context), the explanation concludes that even with missing context, the partner's ""manipulative tactics and verbal attacks go beyond mere miscommunication."" The specific behaviors described (character attacks, manipulation of the child, shifting arguments) are problematic regardless of the missing background information.
+
+The reasoning for ruling out other categories is sound - the author's actions appear reasonable, and the partner's behavior is severe enough that it doesn't warrant shared blame or a ""nobody's fault"" assessment.
+
+The analysis demonstrates that while context matters, there's sufficient information about specific problematic behaviors to make a determination.
+
+Confidence: 0.8
+
+Final Answer: Other",end_turn,11162,3400,14562
+20,"Background info: I have a condition known as ""Skin Hunger"" where the lack of affectionate, loving skin to skin contact begins to severely fuck with my mental and emotional state, making it next to imp...",Author,Info,0.8,0.47619047619047616,False,"Looking at this situation, I need to evaluate whether I have sufficient information to make a fair assessment of fault.
+
+The explanation identifies several critical gaps in information:
+- How the author communicates their physical affection needs (tone, approach, timing)
+- When in relationships this pattern emerges (early vs. later stages)
+- What partners initially indicated about their comfort with physical affection
+- Whether genuine attempts at compromise were made by either party
+- The specific nature of how partners become ""ejective""
+
+These missing details are fundamental to determining fault. For example:
+- If the author presents their needs as ultimatums early in relationships, that suggests different fault allocation than if they make vulnerable requests after establishing compatibility
+- If partners misrepresent their affection capacity initially, that shifts responsibility toward them
+- If this emerges after major relationship changes or stress, it could indicate nobody is truly at fault
+
+The pattern across multiple relationships does suggest systemic issues, but without understanding the specific dynamics, communication styles, and timing involved, I cannot fairly determine whether this represents poor partner selection, communication problems, mismatched expectations, or simply unfortunate incompatibility patterns.
+
+The explanation correctly identifies that the core issue appears to be compatibility screening and communication problems, but determining fault requires understanding how these problems manifest in practice.
+
+Confidence: 0.8
+
+Final Answer: Info",end_turn,11585,3480,15065
+21,Title pretty much sums it up.  An employee was leaving for work related training and mentioned their laptop died &amp; they would need to see if they could borrow their SO’s moms laptop.  My husband j...,Other,Other,0.9,0.75,True,"Looking at this analysis, I can see a clear breakdown of responsibility where the husband bears ""primary responsibility for several critical failures"" while the author bears ""lesser but meaningful responsibility."" The explanation emphasizes that ""the fault levels are significantly unequal"" and that ""the husband's actions were more consequential and violated more fundamental principles.""
+
+The key violations by the husband include:
+- Unilaterally offering shared marital property without consultation
+- Poor judgment regarding privacy and security
+- Crossing professional boundaries
+- Inadequate data protection
+
+While the author had some communication failures and passive responses, these are characterized as secondary and much less significant.
+
+Since the husband bears the primary and more serious responsibility for the situation, and his actions created the core problems through fundamental violations of partnership principles and privacy, this falls into the ""Other"" category.
+
+Confidence: 0.9
+
+Final Answer: Other",end_turn,10700,3213,13913
+22,"Obligatory on mobile notice. Throwaway account for reasons.
+I had a really close friend (Let's call them Joseph) who really got me. When we met, we clicked instantly. We had been through a lot of simi...",Author,Other,0.85,0.7,True,"Looking at this situation, I need to evaluate the relative fault between the Author and Joseph based on the explanation provided.
+
+The explanation clearly establishes that Joseph engaged in serious boundary violations - he ignored explicit communication about the Author's unavailability, escalated physical contact without consent, and continued pursuing despite clear signs of discomfort. These are significant violations that go beyond mere miscommunication.
+
+While the Author did contribute through mixed signals and not enforcing boundaries they recognized as problematic, these actions pale in comparison to Joseph's deliberate disregard of consent and explicit boundaries. The Author's behavior was inconsistent but not violative in the same way.
+
+The explanation specifically notes that ""the responsibilities are not equal"" and that Joseph's actions involved ""more serious violations."" This indicates a clear primary fault assignment to Joseph, with the Author bearing only secondary responsibility.
+
+Given that Joseph's actions constitute the more serious violations (non-consensual physical escalation and ignoring explicit boundaries), and the explanation emphasizes his ""primary responsibility,"" this situation points to Joseph being primarily at fault rather than shared equal fault.
+
+Confidence: 0.85
+
+Final Answer: Other",end_turn,14524,3417,17941
+23,"I work as an occupational therapist’s assistant for reference, but last Thursday night as I was going to bed, I started having some pain in my lower side. I had been down this road before and recogniz...",Other,Info,0.75,0.4,False,"Looking at this fault assessment, I need to evaluate the reasoning and determine the most appropriate classification.
+
+The analysis presents a thorough examination that identifies significant gaps in critical information needed to make a definitive fault determination. The assessment correctly notes that key details are missing about:
+- Whether written policies exist and their specific requirements
+- Prior communication about expectations
+- Workplace norms and standard practices
+- The employee's attendance history
+- Relevant legal requirements
+
+While the analysis does lean toward the boss bearing more responsibility due to procedural and communication issues, it acknowledges this is based on incomplete information. The conclusion explicitly states that ""missing information prevents a definitive judgment.""
+
+The reasoning demonstrates that without knowing the actual policies, prior communications, and established workplace norms, any fault assignment would be speculative. The gaps in information are too significant to make a confident determination of fault.
+
+Even though there's a secondary assessment pointing toward ""Other,"" the primary assessment of ""INFO"" is more defensible given the substantial missing information that would be necessary for a fair and accurate fault determination.
+
+Confidence: 0.75
+
+Final Answer: Info",end_turn,11445,3533,14978
+24,"This is my first time posting in this sub so bear with me here. 
+About I year ago I moved into an apartment with my friend and his girlfriend. She didn't have a job when we first moved in because she ...",Other,Other,0.85,0.8333333333333334,True,"Looking at this situation, I need to evaluate the key factors: domestic violence, refusal to seek help, financial exploitation, and the author's intervention approach.
+
+The physical abuse is the most critical element here. Hitting and kicking a partner crosses a clear ethical boundary that cannot be justified by mental health struggles alone. While depression and anxiety deserve compassion, they do not excuse violence against an intimate partner.
+
+The pattern of behavior described - complete refusal to seek treatment despite repeated offers over 12+ months, financial exploitation with no contribution or job, emotional manipulation, and retaliatory behavior - suggests a concerning dynamic that goes beyond mental health challenges into abuse territory.
+
+The author's intervention, while perhaps not perfectly executed, was motivated by witnessing domestic violence. There's a moral obligation to act when someone is being abused, even if the approach could have been more skillful.
+
+The friend (victim) is in a difficult position typical of abuse situations, and holding victims equally responsible for their own victimization would be problematic given the power imbalances inherent in abusive relationships.
+
+The physical violence provides sufficient moral clarity to assign responsibility, despite the complexity of mental health factors involved.
+
+Confidence: 0.85
+
+Final Answer: Other",end_turn,12472,3443,15915
+25,"Earlier today, me and my girlfriend's dad went out to shovel some people's driveways. He had mentioned that it's something he does this time of year to make some extra cash and I volunteered to help h...",Everybody,Everybody,0.9,0.5740740740740741,False,"Looking at this situation, I can see that both parties made poor choices that contributed to the conflict escalating. The author violated reasonable rules and showed poor judgment, while the dad responded with massively disproportionate anger, dangerous driving behavior, and abandonment.
+
+The analysis clearly shows that while both bear some responsibility, the fault is heavily skewed toward the dad due to his abusive and dangerous responses that far exceeded any reasonable consequence for minor infractions. The author's mistakes were relatively minor rule violations, while the dad's behavior crossed into potentially abusive territory and endangered lives.
+
+Since both parties contributed to the situation through their poor choices, even though the responsibility is heavily unequal, this fits the ""everybody is at fault"" category.
+
+Confidence: 0.9
+
+Final Answer: Everybody",end_turn,13223,3345,16568
+26,"My grandfather died last Friday. My mom told me to not post anything on social media. I interpreted this as to not post anything about my grandfather, not posting stuff in general. 
+
+I haven't changed...",Other,Everybody,0.8,1.0,True,"Looking at this detailed assessment, I can see this is a complex situation involving grief, miscommunication, and shared responsibility. The analysis clearly identifies multiple contributing factors:
+
+1. The author had minor fault (20%) for not seeking clarification, but acted with good intentions
+2. The family had moderate fault (40%) for unclear communication and harsh reactions
+3. Significant systemic issues (40%) including grief-induced communication breakdown and unstated expectations
+
+The assessment notes there's a ""strong argument for NOBODY being at fault"" due to the inevitable nature of grief-related misunderstandings and the lack of malicious intent from anyone involved.
+
+However, the analysis concludes this is ""primarily an EVERYBODY situation"" because there were concrete actions each party could have taken differently, even while acknowledging the mitigating circumstances of grief and good intentions.
+
+The breakdown of specific percentages of fault and the identification of concrete ways each party contributed to the misunderstanding supports the ""Everybody"" classification over ""Nobody,"" despite the strong mitigating factors.
+
+Confidence: 0.8
+
+Final Answer: Everybody",end_turn,11395,3566,14961
+27,Background: Im a college freshman in NYC and my gf is a senior in highschool back home. She had a really shitty day today and wanted to talk on the phone. I said later tonight we could call because I ...,Other,Nobody,0.75,0.5,False,"Looking at this explanation, I need to evaluate the reasoning and determine if the ""Nobody"" verdict is well-supported.
+
+The analysis presents a compelling case for ""Nobody"" by identifying:
+- Legitimate competing needs from both parties
+- Structural/situational constraints rather than character flaws
+- Good faith efforts from both people
+- No malicious intent
+
+However, the explanation also acknowledges significant information gaps that ""could change this assessment,"" including:
+- Unknown severity of the girlfriend's situation
+- Missing pattern information
+- Unclear communication history and established expectations
+
+The verdict seems to lean heavily toward ""Nobody"" while simultaneously acknowledging that crucial missing information could shift the assessment toward fault assignment. This creates some tension in the conclusion.
+
+That said, the core reasoning about structural conflicts with legitimate competing needs is sound, and the analysis demonstrates that many relationship conflicts don't require fault assignment. The ""Nobody"" classification appears well-reasoned given the available information, even with the acknowledged uncertainties.
+
+The explanation shows good analytical depth and acknowledges its limitations appropriately.
+
+Confidence: 0.75
+
+Final Answer: Nobody",end_turn,11003,3723,14726
+28,"Me and my friends are currently filming a project for Youtube. It's just fun, nothing serious. We were going to film a scene today where we would meet with a group of people. One of these people is th...",Author,Author,0.9,0.9411764705882353,True,"Looking at this analysis, I can see a clear pattern of escalatory and inappropriate behavior from the author, including:
+
+- Refusing to respect a clear boundary (""I don't want to"")
+- Physical coercion (taking someone's shoe)
+- Verbal abuse (calling someone a ""little shit"")
+- Poor planning and then blaming others for the consequences
+- Choosing confrontation over understanding
+
+While May could have communicated better about her unavailability, the author's response was disproportionate and crossed multiple lines of appropriate behavior. The analysis correctly identifies that this transformed from a minor scheduling issue into a serious conflict primarily due to the author's choices.
+
+The power dynamic and escalation pattern clearly show the author driving the conflict, while May was responding defensively to increasingly aggressive behavior. Even if May had communicated perfectly, it wouldn't justify the author's boundary violations and abusive conduct.
+
+The 80/20 fault distribution mentioned in the analysis strongly points to the author bearing primary responsibility.
+
+Confidence: 0.9
+
+Final Answer: Author",end_turn,13134,3586,16720
+29,"I'm a 15 year old teenager, and my dad wants me to go with him to see some new dark comedy movie, but I would rather go see it with my friends, I feel I'm getting too old to watch movies with my 40 ye...",Author,Nobody,0.85,0.6666666666666666,False,"Looking at this explanation, I can see a clear analysis that identifies this as a normal developmental transition where both the teenager's desire for peer connection and the father's adjustment to his child growing up are psychologically healthy responses.
+
+The explanation emphasizes that this is a ""natural developmental transition"" and ""common family milestone"" where neither party is fundamentally wrong. The teenager's desire for peer experiences is described as ""developmentally appropriate, not selfish"" and the father's invitation ""likely comes from love and habit, not malice.""
+
+While the explanation mentions that more information could potentially shift the assessment, and notes the possibility of ""Everybody"" fault if communication breaks down, the primary assessment is clearly stated as ""NOBODY is at fault"" based on this being a normal family adjustment challenge.
+
+The core reasoning - that both parties are exhibiting normal, healthy responses to a natural life transition - strongly supports the Nobody classification.
+
+Confidence: 0.85
+
+Final Answer: Nobody",end_turn,9329,2964,12293
+30,"TLDR down below!
+
+&amp;#x200B;
+
+So me (20 m) and my best friend (19 f) have been friends for about 7 years now. I always noticed that she had some kind of crush on me or was at least very very interes...",Everybody,Other,0.85,0.42857142857142855,False,"Looking at this analysis, I can see a clear breakdown of responsibility with the friend bearing primary fault for orchestrating a manipulative pressure campaign that violated basic consent and boundaries. The friend repeatedly ignored ""no"" as an answer, coordinated with others to apply social pressure, and then dismissed the resulting coercion as ""made up"" while calling the author ""mentally weak.""
+
+While the author shares some responsibility for not maintaining firmer boundaries and making dishonest declarations under pressure, these were largely reactive responses to manipulation rather than initiating harmful behavior. The friend group also enabled this coercive dynamic.
+
+The analysis demonstrates clear patterns of manipulative behavior with sufficient information to assign fault. The friend's violations of consent and orchestration of psychological pressure represent the most serious misconduct in this situation.
+
+Confidence: 0.85
+
+Final Answer: Other",end_turn,15390,3548,18938
+31,"So my girlfriend was apolosing today for re organising my room without asking me meaning I now had no idea where anything was anymore.
+However this was reorganisation was about a month ago and she kep...",Everybody,Everybody,0.95,0.5,False,"Looking at this fault assessment, I can see a clear analysis that identifies significant wrongdoing by both parties in the conflict. The girlfriend is assigned 60% responsibility for boundary violations, defensive non-apologies, disrespectful escalation, and avoidance behaviors. The author is assigned 40% responsibility for delayed addressing of issues, controlling/manipulative demands, inflexibility, and participating in escalation.
+
+The explanation explicitly states this is an ""Everybody"" situation rather than other categories, reasoning that both parties contributed meaningfully to the conflict through concrete harmful actions. The assessment describes this as a ""conflict escalation failure"" where both people abandoned healthy resolution methods.
+
+The analysis appears thorough and well-reasoned, with clear justification for why this falls into the ""Everybody"" category rather than placing blame primarily on one party or the other.
+
+Confidence: 0.95
+
+Final Answer: Everybody",end_turn,11635,3681,15316
+32,"I have this friend and I feel like she tries too hard to be ""LGBT"". My friend and I are both bi. Ever since I met her she's had long hair down to her hips. She's recently got into Kpop and she's cut h...",Author,Other,0.85,0.38028169014084506,False,"Looking at this assessment, I can see a clear analysis that identifies specific problematic behaviors with concrete negative impacts on others. The friend's actions - making inappropriate sexual comments in class, disruptive public behavior, and ignoring social cues when others are uncomfortable - represent clear boundary violations in shared academic spaces.
+
+The assessment correctly distinguishes between identity exploration (which is not problematic) and disruptive behavior that affects others (which is problematic). While the author bears some responsibility for poor communication, the primary fault lies with the friend for engaging in behaviors that violate reasonable social expectations and make others uncomfortable in educational settings.
+
+The analysis is thorough and the reasoning is sound, identifying both primary and secondary fault appropriately.
+
+Confidence: 0.85
+
+Final Answer: Other",end_turn,12226,3252,15478
+33,TL;DR I don't think I should demand my husband should stop what he's enjoying to fulfil a previously offered favour to me. He thinks I should have made the demand instead of making alternative arrange...,Other,Everybody,0.85,0.75,True,"Looking at this situation, I can see clear failures from both parties that created and escalated the conflict.
+
+The husband bears primary responsibility for breaking his dinner commitment without communication and then inappropriately berating his wife when she solved the problem he created. Once he realized around 7 PM that he'd be busy all night, he should have immediately communicated about dinner rather than leaving her waiting until 8:40 PM.
+
+However, the author also contributed significantly through extreme conflict avoidance - waiting over 2 hours without any communication is dysfunctional. Her belief that asking ""How's dinner going?"" would be ""demanding"" shows poor understanding of reasonable communication in a relationship.
+
+Both parties have created a dysfunctional pattern where he makes casual commitments without follow-through and she enables this by never communicating her needs. This isn't just one person's fault - it's a systemic relationship communication problem that both have failed to address.
+
+The 60/40 fault distribution in the explanation accurately reflects that while the husband's actions were more egregious, both parties made clear errors in judgment and communication that led to this conflict.
+
+Confidence: 0.85
+
+Final Answer: Everybody",end_turn,12753,3630,16383
+34,"About three weeks ago, girlfriend was driving while I was a passenger. We were at a four way stop and if I'm being totally honest, I think she went when it wasn't her turn but it was really close and ...",Author,Everybody,0.9,0.7619047619047619,True,"Looking at this situation, I need to evaluate the moral responsibility of both parties involved.
+
+The girlfriend appears to have fabricated racist accusations against an elderly man to avoid responsibility for what was likely her fault in an accident. The evidence suggests calculated deception - remaining calm until police arrived, then immediately producing tears and specific claims, followed by ""zero remorse"" for the severe consequences imposed on the innocent man. This represents active wrongdoing through false accusations that weaponized race and gender dynamics.
+
+The author bears substantial moral responsibility through his knowing silence. He had direct knowledge that no racist comments occurred, recognized his moral duty in real-time (""say something, just say something""), but chose to remain silent to preserve his relationship. He explicitly acknowledges being ""spineless"" and recognizes his moral failure. His testimony as an independent witness could have prevented the false accusations from being believed.
+
+This situation represents a collaboration in injustice - one person through active deception, the other through enabling silence that was crucial to the deception's success. Both contributed to potentially devastating consequences for an innocent elderly man, though at different levels of responsibility.
+
+The girlfriend bears primary fault for initiating the false accusations, while the author bears secondary but still substantial fault for enabling the injustice through his silence when he had the power and moral obligation to intervene.
+
+Confidence: 0.9
+
+Final Answer: Everybody",end_turn,13436,3489,16925
+35,"I'll give you some context.
+
+4 years ago I met my best friend, i'll call her Molly. She and I were only two until we met another 4 girls, two of them have another group and they are very nice to me.
+
+...",Nobody,Everybody,0.95,0.6,False,"Looking at this detailed fault assessment, I can see a clear analysis that attributes responsibility to both parties in the conflict. The explanation systematically breaks down how both the author (40% responsibility) and the friends (35% responsibility) contributed to the relationship breakdown through different but significant failures.
+
+The analysis explicitly rules out the other categories by explaining why this isn't solely the author's fault (friends were genuinely problematic), not solely the friends' fault (author had significant communication failures), not nobody's fault (both made choices that worsened things), and not an information issue (sufficient details provided).
+
+The core conclusion directly states this is ""a clear case of shared fault requiring mutual accountability"" with both parties caught in a negative feedback loop of their own making.
+
+Confidence: 0.95
+
+Final Answer: Everybody",end_turn,13967,3876,17843
+36,"So I’ve tried to tell him subtly with hints over a few months. But he doesn’t “believe” in soap or washing
+
+It’s so bad you can’t sit in the car with him at all 
+
+Even his hair is that filthy there’s ...",Author,Everybody,0.95,0.42857142857142855,False,"Looking at this fault assessment, I can see a clear analysis that systematically breaks down responsibility across multiple parties:
+
+1. **Author** - High responsibility for procedural failures, ethical violations, and creating a hostile work environment through public humiliation
+2. **Coworker** - Moderate responsibility for hygiene issues affecting others, though mitigated by unknown underlying causes
+3. **Management/Workplace** - High responsibility for systemic failures, lack of policies, and allowing the situation to deteriorate
+
+The analysis explicitly concludes this is a ""systemic failure"" and ""collective failure"" where multiple parties contributed through both action and inaction. The assessment emphasizes that while individual actions varied in severity, the destructive outcome resulted from simultaneous breakdowns across all levels - individual behavior, workplace systems, and communication channels.
+
+The reasoning clearly supports shared fault rather than placing blame on any single party.
+
+Confidence: 0.95
+
+Final Answer: Everybody",end_turn,10858,3604,14462
+37,So yeah title and a little bit more details. My mom has always been terrible with money and as a teenager I would lend her quite significant sums of money to help her hide it from my dad as I thought ...,Other,Everybody,0.95,1.0,True,"Looking at this detailed fault assessment, I can see a clear analysis of systemic family dysfunction where responsibility is distributed across multiple parties - the mother (highest responsibility for exploiting minors), the author (moderate responsibility for enabling patterns), the father (moderate responsibility for creating an unsafe environment), and the family system as a whole for normalizing harmful patterns.
+
+The explanation explicitly concludes that ""the fault lies with everyone because this represents a family system failure where individual choices created and maintained harmful patterns."" This comprehensive analysis demonstrates how each party's actions contributed to a cycle that ultimately harms the most vulnerable family members.
+
+The assessment shows clear reasoning for shared responsibility rather than placing blame on a single party, and provides sufficient detail about each person's contributions to make this determination.
+
+Confidence: 0.95
+
+Final Answer: Everybody",end_turn,12513,3644,16157
+38,"I've been dating my boyfriend for almost a year now. My family and friends have all met him and they all at leat dislike him. At first I thought they'll get used to me dating him, but after a year, it...",Author,Other,0.9,0.42857142857142855,False,"Looking at this fault assessment, I need to evaluate whether the analysis and assignment of responsibility is accurate.
+
+The assessment identifies this as primarily a family boundary issue (70% family responsibility) rather than a relationship problem. The key factors supporting this conclusion are:
+
+1. The family is applying traditional gender role expectations to judge a modern relationship
+2. They've maintained a sustained campaign of disapproval for a full year
+3. They're conflating their personal preferences with actual mistreatment
+4. They're undermining the author's adult autonomy in a relationship she describes as happy
+
+The assessment correctly identifies that the author bears some responsibility (20%) for not establishing firm boundaries and considering ending a good relationship due to external pressure rather than addressing the root issue.
+
+The boyfriend's minimal responsibility (10%) also seems appropriate - he shouldn't be required to conform to values neither he nor his girlfriend share.
+
+The analysis appears thorough and well-reasoned. The family is clearly overstepping boundaries by continuously interfering in an adult's relationship based on outdated expectations, while the author has failed to adequately address this interference. This aligns with the ""Other"" category since the primary fault lies with the family members.
+
+Confidence: 0.9
+
+Final Answer: Other",end_turn,13164,3471,16635
+39,"So a short backstory on me, I am a model. And with that most of my previous relationships stem from the guys I am dating on really dating me because of my looks and the ""status symbol"" of dating a mod...",Author,Info,0.9,0.7222222222222222,True,"Looking at this analysis, the explanation clearly identifies that the fundamental problem is an ""information gap"" and ""information vacuum"" that prevents fair judgment of anyone's actual behavior or motives. The analysis emphasizes that all fault assessments are conditional (""IF he made those statements,"" ""IF lying,"" ""IF truthful"") because the core facts cannot be verified.
+
+The explanation explicitly states that ""lack of reliable information creates moral ambiguity where fault cannot be fairly assigned"" and concludes that the real problem is insufficient information rather than necessarily anyone's behavior.
+
+This directly supports the INFO classification that more information is needed before any fault can be properly determined.
+
+Confidence: 0.9
+
+Final Answer: Info",end_turn,13118,3301,16419
+40,My boyfriend of 3 years has gone on a beach vacation with his high school/college friends every summer for a few years. One of the families rents a 20 person house on the beach and they stay for a wee...,Author,Nobody,0.75,0.6818181818181818,False,"Looking at this analysis, I need to evaluate whether the reasoning for ""INFO (leaning toward Nobody)"" is sound and make a definitive classification choice.
+
+The explanation identifies several critical pieces of missing information that would significantly impact fault determination:
+- Whether other long-term partners are typically included
+- The legitimacy of space constraints
+- The boyfriend's actual advocacy efforts
+- The friends' true motivations
+
+These are genuinely important factors that could shift blame considerably. However, I need to consider whether we have enough information to make a reasonable judgment despite these gaps.
+
+The analysis shows that each party has understandable positions:
+- The author's hurt feelings after 3 years together are reasonable
+- The boyfriend is genuinely caught between competing loyalties
+- The friends may have legitimate practical constraints
+
+The framing as a ""systems conflict"" rather than individual fault is insightful - this appears to be a clash between different reasonable expectations rather than clear wrongdoing by any party.
+
+While more information would be helpful, the core dynamic seems clear enough: this is likely an unfortunate situation where established friend group traditions are colliding with relationship progression expectations, without anyone acting unreasonably given their perspective and constraints.
+
+The ""leaning toward Nobody"" assessment suggests that even with perfect information, this would likely be classified as an unfortunate circumstance rather than someone being at fault.
+
+Confidence: 0.75
+
+Final Answer: Nobody",max_tokens,10938,3549,14487
+41,I’m in high school and as some of you may know school food is pretty bad. The only thing my friends and I like are the salads but they sometimes sell out pretty quick. Due to this my friends and I usu...,Author,Everybody,0.9,0.5555555555555556,False,"Looking at this detailed analysis, I can see a clear case being made for distributed moral responsibility across multiple parties. The explanation systematically breaks down how different actors contribute to an ongoing harm:
+
+- The author has the means to solve the problem (6-seat SUV) but chooses personal convenience over doing what's right
+- The friend with the car creates and enforces an exclusionary system
+- The rest of the group enables this through silent complicity
+- Even the excluded person may bear minimal responsibility for social dynamics
+
+The analysis convincingly demonstrates that this isn't a case where one party is solely responsible, nor is it an unavoidable situation. Instead, it shows how multiple people with varying degrees of agency and power are all making choices that perpetuate harm to someone in their group. The key insight is that this is ""an easily solvable problem that persists due to collective moral passivity.""
+
+The reasoning for rejecting other categories is also sound - it's not just the author (others created/enable the system), not just others (author has clear power to act), not nobody (clear moral choices are being made), and not lacking info (sufficient facts to assess responsibility).
+
+Confidence: 0.9
+
+Final Answer: Everybody",end_turn,12252,3900,16152
+42,Context: I recently started hanging out with a group of guys that were already all friends. They've been friends since they were little kids. When we hang out or talk in group chats all they do is rip...,Author,Everybody,0.9,0.625,False,"Looking at this fault assessment, I can see a thorough analysis that identifies meaningful contributions to the conflict from all parties involved:
+
+- The Author (40%) made several poor choices including escalating with a personal attack, publicly humiliating Bob, and showing poor social calibration as a newcomer
+- Bob (35%) demonstrated inconsistent boundaries, dishonest communication about money, and hypocritical standards 
+- The Group (25%) failed to properly integrate the newcomer, maintained contradictory cultural norms, and provided poor conflict mediation
+
+The analysis convincingly explains why this is a shared responsibility situation rather than placing fault primarily on one party. Each party's actions meaningfully contributed to the escalation and ultimate conflict. The reasoning for rejecting the other categories (Author-only, Other-only, Nobody, Info) is sound and well-supported.
+
+The percentages show this isn't a case where one person bears overwhelming responsibility, but rather a situation where multiple failures in communication, boundary-setting, and social awareness compounded to create the conflict.
+
+Confidence: 0.9
+
+Final Answer: Everybody",end_turn,14740,3805,18545
+43,"I started a new part time job a few months ago while I job hunt. It's a part time gig, I don't expect to stay here. 
+
+One of my co-workers is a self proclaimed autistic person. (she tells this to ever...",Other,Everybody,0.85,0.8571428571428571,True,"Looking at this comprehensive analysis, I can see that the explanation methodically works through the fault distribution and identifies key contributing factors from multiple parties, while also highlighting critical information gaps that affect the assessment.
+
+The analysis demonstrates that:
+1. Both the author and coworker have clear areas of responsibility
+2. The author has communication and boundary-setting issues, plus potential ableist bias
+3. The coworker engages in inappropriate boundary violations regardless of neurological status
+4. Critical information gaps (autism legitimacy, workplace policies, escalation history) significantly limit the ability to make a complete assessment
+5. The fault is explicitly described as ""shared, but unequally distributed""
+
+The explanation concludes with ""Everybody"" as the primary assessment, noting that this involves both individual failures and systemic issues. While information gaps are acknowledged as ""Critical,"" they are treated as limiting factors rather than making the assessment impossible.
+
+The reasoning is thorough and the conclusion that everyone bears some responsibility, despite the information limitations, appears well-supported by the evidence presented.
+
+Confidence: 0.85
+
+Final Answer: Everybody",end_turn,11018,3537,14555
+44,"So for some background info, I (17m) have been dating my girlfriend (18f) for a little over 5 months. We both go to the same high school. The boy in question (18m) used to be her boyfriend but they br...",Author,Everybody,0.95,0.5625,False,"Looking at this analysis, I can see a clear breakdown of shared responsibility where both parties are contributing to relationship dysfunction in meaningful ways.
+
+The analysis demonstrates that:
+- The author exhibits controlling behavior, surveillance mentality, and escalating paranoia (40% fault)
+- The girlfriend shows poor boundary management, emotional inconsistency, and mixed signals (40% fault)
+- There are systemic factors like age/inexperience contributing to the overall dysfunction (20%)
+
+The explanation specifically concludes that ""both parties contributing to the dysfunction"" and describes it as a ""toxic feedback loop"" where each person's problematic behavior reinforces the other's. This is a textbook case of shared fault where neither party is entirely innocent, but both are making choices that undermine the relationship.
+
+The analysis explicitly states ""EVERYBODY is at fault"" in the title and concludes that this demonstrates ""shared responsibility"" rather than one person being ""the problem.""
+
+Confidence: 0.95
+
+Final Answer: Everybody",end_turn,13928,3535,17463
+45,"Good friend (Xavier) a couple months ago started talking to this real pretty chick, who happened to be an ex of another friend/associate (Rauol). He unsolicited, sent me pics of her in her lingerie, t...",Everybody,,,0.7142857142857143,True,"Looking at this situation, I need to evaluate the fault distribution between Xavier and the Author regarding sharing intimate photos without consent.
+
+Xavier clearly bears significant responsibility as he:
+- Initially violated the woman's privacy by sharing her intimate photos without consent
+- Created the entire problematic situation
+- Put the Author in a compromising position with unsolicited intimate content
+- Failed to clearly communicate expectations while asking the Author not to tell Raoul
+- Later deflected responsibility by blaming the Author
+
+However, the Author also bears responsibility by:
+- Amplifying the privacy violation by sharing the photo with bar friends
+- Failing to consider the woman's consent and dignity
+- Not refusing to participate when Xavier sent the photo
+- Contributing to the ""parading around the bar"" behavior that specifically upset the woman
+
+The explanation correctly identifies that both parties participated in normalizing the sharing of intimate photos without consent. While Xavier initiated the violation, the Author's actions were necessary for the specific harm that occurred (the broader sharing at the bar). The woman's anger was specifically about her photos being ""paraded around the bar,"" which required the Author's participation.
+
+The analysis shows a shared but unequal responsibility, with Xavier bearing primary fault (70-80%) and the Author bearing secondary fault (20-30%). This clearly falls into the ""Everybody"" category since both parties contributed meaningfully to the harm, even though their levels of responsibility differ.
+
+Confidence",max_tokens,14577,3555,18132
+46,So my wife developed some serious feelings for this guy years ago. I found out she is talking to him again after she said she wouldn't.   I got fed up with seeing his number showing up in my bill stat...,Everybody,Everybody,0.9,0.6666666666666666,False,"Looking at this situation, I need to evaluate the fault distribution based on the detailed analysis provided.
+
+The explanation clearly demonstrates that both parties made significant errors:
+
+The wife (40% responsibility):
+- Broke an explicit promise about contact
+- Engaged in secretive behavior
+- Failed to address her feelings constructively
+- Prioritized an external relationship over marriage stability
+
+The husband (40% responsibility):
+- Used controlling tactics instead of communication
+- Violated his wife's autonomy through secret blocking
+- Escalated rather than addressed root causes
+- Added more deception to an already troubled situation
+
+Both parties (20% shared responsibility):
+- Failed to establish healthy boundaries
+- Didn't address underlying marriage issues
+- Both chose secrecy over honest dialogue
+- Created a destructive cycle of broken trust
+
+The analysis systematically rules out other categories with sound reasoning - it's not just the wife's fault despite her broken promise, not just the husband's fault despite his controlling behavior, not nobody's fault since clear violations occurred, and not lacking information since the key behaviors are well-documented.
+
+This represents a clear case of mutual dysfunction where both parties' poor choices created and perpetuated the conflict.
+
+Confidence: 0.9
+
+Final Answer: Everybody",end_turn,10320,3506,13826
+47,"Both of us have always wanted children, and it's probably one of our biggest dreams. We love each other dearly, and I wouldn't even doubt her ability to be an amazing parent. Unfortunately, she happen...",Author,,,0.6829268292682927,False,"Looking at this situation, I need to evaluate whether the explanation's reasoning and conclusion are sound.
+
+The explanation identifies several key issues:
+- The author made a unilateral decision without exploring medical alternatives
+- The author created a logical contradiction (refusing both biological children and adoption while claiming to want children)
+- The author was insensitive in delivery
+- The partner failed to discuss genetic implications early in the relationship
+- The partner may be minimizing legitimate concerns
+
+The reasoning for ""Everybody"" is well-supported. The author clearly bears significant responsibility for his contradictory stance and unilateral approach - wanting children but refusing all viable paths to parenthood, while not engaging in collaborative problem-solving or exploring medical options like genetic counseling.
+
+However, the partner also contributed to this crisis by not proactively addressing the reproductive implications of her heritable condition earlier in the relationship, which could have prevented this situation from reaching a crisis point.
+
+The explanation correctly rules out other categories:
+- Not ""Author"" alone because the partner's early communication failures contributed
+- Not ""Other"" alone because the author's contradictory decision-making is independently problematic
+- Not ""Nobody"" because both made concrete errors beyond just incompatible values
+- Not ""Info"" because the core issues are behavioral, not informational
+
+The conclusion that this represents a shared failure of communication and collaborative problem-solving, with the author bearing greater (but not exclusive)",max_tokens,11861,3450,15311
+48,"Hi guys, me and my girlfriend have been going out for little over 4 months. I really feel a connection with her and would go so far as to say I really love her as she does me. About a month into the r...",Other,Everybody,0.95,1.0,True,"Looking at this detailed assessment, I can see that both parties are clearly identified as having significant faults that contribute to the conflict:
+
+The author is assigned 40% fault for poor communication, dismissive language, potential dishonesty about commitment fears, and inflexibility.
+
+The girlfriend is assigned 45% fault for boundary violations, manipulative behavior, poor timing, and failure to engage with concerns.
+
+There's also 15% shared responsibility for mutual communication breakdown, assumption-making, and conflict avoidance.
+
+The assessment explicitly states ""Both parties bear significant responsibility"" and describes it as ""fundamentally a mutual communication failure requiring work from both parties."" The fact that fault percentages are assigned to both individuals, plus shared responsibility, clearly indicates this is a situation where everyone involved is at fault.
+
+The assessment also explicitly rules out the other categories, stating it's ""Not 'Author' or 'Other' alone"" because both contribute significantly to the dysfunction.
+
+Confidence: 0.95
+
+Final Answer: Everybody",end_turn,11760,3597,15357
+49,"My girlfriend and I have been dating for almost 1 year. I have 3 kids from my 6 year marriage with my ex, which ended a little over a year ago. Kids are 2, 3, and 5.
+
+My ex and I obviously have some b...",Author,Author,0.85,0.45454545454545453,False,"Looking at this analysis, I find the reasoning compelling and well-supported by the evidence presented. The explanation clearly demonstrates a pattern of problematic behavior from the author that goes beyond normal co-parenting concerns.
+
+The key indicators are particularly strong:
+- The author's obsessive focus on his ex's appearance (hair, nails, clothes) rather than child welfare
+- His dismissive attitude toward legitimate partner concerns
+- The defensive framing that immediately questions his girlfriend's readiness to date a parent rather than self-reflecting
+- The girlfriend reaching an ultimatum point, suggesting this has been an ongoing, escalating issue
+
+The analysis effectively distinguishes between legitimate co-parenting discussions and what appears to be inappropriate monitoring disguised as parental concern. The author's own words reveal a lack of self-awareness about how his behavior impacts his current relationship.
+
+While there could be some minor responsibility on the girlfriend's part regarding earlier boundary communication, the evidence strongly points to the author as the primary problem. His behavior suggests he's processing divorce trauma and control issues through his romantic relationship rather than addressing them appropriately.
+
+Confidence: 0.85
+
+Final Answer: Author",end_turn,12253,3412,15665

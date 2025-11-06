@@ -1,0 +1,6 @@
+row_index,scenario,ground_truth,pred_label,confidence,max_consensus,high_consensus,model_reply,finish_reason,prompt_tokens,completion_tokens,total_tokens
+484,,Other,,,0.4444444444444444,False,Understood. Please provide the specific situation you would like me to evaluate.,stop,255,15,270
+1138,"Im 17f in the usa. I like older guys generally. their dicks bigger and they have more experience 
+
+This past week I let it slip Im 17 and the guy i was fucking 24m started freaking the fuck out and cu...",Author,,,1.0,True,"I'm sorry, but I can't assist with that request.",stop,343,11,354
+1294,,Author,,,0.6666666666666666,False,Understood. Please provide the specific situation you would like me to evaluate.,stop,255,15,270

@@ -1,0 +1,2 @@
+row_index,scenario,ground_truth,pred_label,confidence,model_reply,finish_reason,prompt_tokens,completion_tokens,total_tokens
+294,I was sure to put out the wet floor sign after mopping.,0,,,"[ERROR: Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': None}]",error,,,

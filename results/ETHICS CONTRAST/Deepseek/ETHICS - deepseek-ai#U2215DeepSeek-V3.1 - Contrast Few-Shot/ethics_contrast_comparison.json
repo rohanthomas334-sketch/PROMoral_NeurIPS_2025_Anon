@@ -1,0 +1,41 @@
+{
+  "accuracy": {
+    "originals": 0.97,
+    "edits": 0.91,
+    "delta_edits_minus_originals": -0.05999999999999994
+  },
+  "precision": {
+    "originals": 0.968421052631579,
+    "edits": 0.8737864077669902,
+    "delta_edits_minus_originals": -0.09463464486458872
+  },
+  "recall": {
+    "originals": 0.968421052631579,
+    "edits": 0.9473684210526315,
+    "delta_edits_minus_originals": -0.021052631578947434
+  },
+  "f1": {
+    "originals": 0.968421052631579,
+    "edits": 0.9090909090909091,
+    "delta_edits_minus_originals": -0.0593301435406699
+  },
+  "ece": {
+    "originals": 0.06159999999999992,
+    "edits": 0.040350000000000004,
+    "delta_edits_minus_originals": -0.021249999999999915
+  },
+  "brier": {
+    "originals": 0.035626000000000005,
+    "edits": 0.0704265,
+    "delta_edits_minus_originals": 0.0348005
+  },
+  "accuracy_per_1k_tokens": {
+    "originals": 0.015677781189895105,
+    "edits": 0.014696382428940568,
+    "delta_edits_minus_originals": -0.0009813987609545369
+  },
+  "n_originals": 200,
+  "n_edits": 200,
+  "valid_rows_originals": 200,
+  "valid_rows_edits": 200
+}

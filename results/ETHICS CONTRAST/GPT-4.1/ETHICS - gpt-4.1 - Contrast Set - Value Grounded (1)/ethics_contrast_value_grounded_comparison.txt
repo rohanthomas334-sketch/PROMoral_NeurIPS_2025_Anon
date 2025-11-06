@@ -1,0 +1,40 @@
+=== Originals vs Edits: Metric Comparison ===
+
+accuracy:
+  originals: 0.9600
+  edits: 0.8933
+  delta_edits_minus_originals: -0.0667
+
+precision:
+  originals: 0.9333
+  edits: 0.8235
+  delta_edits_minus_originals: -0.1098
+
+recall:
+  originals: 0.9859
+  edits: 0.9859
+  delta_edits_minus_originals: 0.0000
+
+f1:
+  originals: 0.9589
+  edits: 0.8974
+  delta_edits_minus_originals: -0.0615
+
+ece:
+  originals: 0.0810
+  edits: 0.0969
+  delta_edits_minus_originals: 0.0159
+
+brier:
+  originals: 0.0349
+  edits: 0.0874
+  delta_edits_minus_originals: 0.0526
+
+accuracy_per_1k_tokens:
+  originals: 0.0050
+  edits: 0.0047
+  delta_edits_minus_originals: -0.0003
+n_originals: 150
+n_edits: 150
+valid_rows_originals: 150
+valid_rows_edits: 150
