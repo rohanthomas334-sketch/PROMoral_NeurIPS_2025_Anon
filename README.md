@@ -60,10 +60,10 @@ promoral-bench/
 │   ├── scruples/            # Scruples results
 │   └── wildjailbreak/       # WildJailbreak results
 ├── Annotations/              
-│   └── analysis.ipynb       #
-│   └── analysis.ipynb       #
+│   └── annotations_eval.ipynb       # The results of the annotation of the ETHICS-Contrast set
+│   └── ETHICS_Contrast_annotation_notation.ipynb       # The notation given to all three coauthors who participated in the annotation
 ├── Significance Tests/              
-│   └── analysis.ipynb       # 
+│   └── Statistical_Significance_and_UMSS_Ablation.ipynb       # The code cells for all significance tests and UMSS ablations
 ├── requirements.txt
 ├── .env.example
 ├── CONTRIBUTING.md
