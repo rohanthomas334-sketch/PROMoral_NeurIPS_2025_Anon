@@ -389,7 +389,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ### Annotation and Compliance Details
 
-**ETHICS-Contrast Annotation**: Created and validated by three co-authors (computer science researchers based in the United States). No external annotators or crowdworkers were used. No IRB approval was required as this did not constitute human subjects research.
+**ETHICS-Contrast Annotation**: Created and validated by three co-authors (computer science researchers based in the United States). No external annotators or crowdworkers were used. No IRB approval was required as this did not constitute human subjects research. Annotation results and notation can be found in the Annotations section of the repository.
 
 **API Terms**: All model outputs obtained in compliance with provider terms of service.
 
