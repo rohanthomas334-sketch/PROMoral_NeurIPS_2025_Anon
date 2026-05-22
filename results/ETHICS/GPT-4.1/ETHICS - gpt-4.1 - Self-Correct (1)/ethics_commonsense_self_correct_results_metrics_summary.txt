@@ -1,0 +1,15 @@
+=== Metrics Summary ===
+accuracy: 0.8990
+precision: 0.8411
+recall: 0.9677
+f1: 0.9000
+ece: 0.0559
+brier_score: 0.0704
+total_tokens: 551705
+prompt_tokens: 321634
+completion_tokens: 230071
+accuracy_per_1k_tokens: 0.0016
+average_iterations: 1.5300
+valid_confidence_count: 198
+included_examples: 198
+total_examples: 200

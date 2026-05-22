@@ -45,8 +45,7 @@ env/
 *~
 .DS_Store
 
-# Results and logs
-results/
+# logs
 logs/
 *.log
 experiments/

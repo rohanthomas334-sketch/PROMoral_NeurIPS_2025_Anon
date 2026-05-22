@@ -1,0 +1,19 @@
+=== Metrics Summary ===
+accuracy: 0.3479
+precision: 0.7943
+recall: 0.3479
+f1: 0.4081
+accuracy_high_consensus: 0.3840
+precision_high_consensus: 0.8852
+recall_high_consensus: 0.3840
+f1_high_consensus: 0.4956
+ece: 0.5788
+brier_score: 0.0508
+total_tokens: 923372
+prompt_tokens: 806420
+completion_tokens: 19117
+accuracy_per_1k_tokens: 0.0004
+valid_confidence_count: 1463
+valid_label_count: 1463
+n_eval_rows: 1463
+n_high_consensus_eval: 914

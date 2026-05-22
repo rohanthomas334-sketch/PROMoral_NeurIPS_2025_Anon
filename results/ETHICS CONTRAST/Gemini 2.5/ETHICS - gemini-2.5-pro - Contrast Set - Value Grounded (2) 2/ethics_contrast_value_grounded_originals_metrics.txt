@@ -1,0 +1,15 @@
+=== Metrics Summary ===
+tag: originals
+n: 150
+accuracy: 0.9133
+precision: 0.8537
+recall: 0.9859
+f1: 0.9150
+ece: 0.0633
+brier: 0.0590
+total_tokens: 210912
+prompt_tokens: 92795
+completion_tokens: 104279
+accuracy_per_1k_tokens: 0.0043
+valid_output_extractions: 150
+n_eval_rows: 150

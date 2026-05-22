@@ -1,0 +1,12 @@
+=== Metrics Summary ===
+accuracy_raw: 0.8847
+precision_raw: 0.8181
+recall_raw: 0.9793
+f1_raw: 0.8915
+ece: 0.0944
+brier_score: 0.0977
+total_tokens: 369649
+prompt_tokens: 338910
+completion_tokens: 30739
+accuracy_per_1k_tokens: 0.0024
+valid_confidence_count: 1700
