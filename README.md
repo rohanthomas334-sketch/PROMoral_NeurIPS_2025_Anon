@@ -59,8 +59,11 @@ promoral-bench/
 │   ├── ethics_contrast/     # ETHICS-Contrast results
 │   ├── scruples/            # Scruples results
 │   └── wildjailbreak/       # WildJailbreak results
-├── notebooks/              
-│   └── analysis.ipynb       # Complete implementation and analysis
+├── Annotations/              
+│   └── analysis.ipynb       #
+│   └── analysis.ipynb       #
+├── Significance Tests/              
+│   └── analysis.ipynb       # 
 ├── requirements.txt
 ├── .env.example
 ├── CONTRIBUTING.md
