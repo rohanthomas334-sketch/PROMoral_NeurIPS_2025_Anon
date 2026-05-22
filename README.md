@@ -11,7 +11,7 @@ ProMoral-Bench provides a standardized evaluation protocol for comparing 11 prom
 ### Key Features
 
 - **11 Prompting Strategies**: Zero-Shot, Few-Shot, Chain-of-Thought variants, Role Prompting, Plan-and-Solve, Self-Correct, Thought Experiment, Value-Grounded, and First-Principles reasoning
-- **4 Model Families**: GPT-4.1 (OpenAI), Claude Sonnet-4 (Anthropic), Gemini 2.5 Pro (Google), DeepSeek-V3 (Together)
+- **5 Model Families**: GPT-4.1 (OpenAI), Claude Sonnet-4 (Anthropic), Gemini 2.5 Pro (Google), DeepSeek-V3 (Together), llama 3.3 70b instruct (Meta)
 - **4 Evaluation Tasks**: ETHICS, ETHICS-Contrast (new), Scruples, WildJailbreak
 - **Unified Metrics**: Unified Moral Safety Score (UMSS) combining competence and safety
 - **Reproducible Protocol**: Fixed templates, deterministic decoding (temperature=0)
@@ -137,7 +137,7 @@ All experimental results are available in `results/` with per-model, per-dataset
 
 ### Hardware Requirements
 
-- **Compute Type**: API-based (no local GPU required)
+- **Compute Type**: Mostly API-based with the addition of open-sourced Llama
 - **Memory**: Minimum 8GB RAM recommended for data processing and result aggregation
 - **Storage**: ~500MB for complete results and intermediate outputs
 
